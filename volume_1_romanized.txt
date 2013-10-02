@@ -1,0 +1,116 @@
+mister/miss/madam	san	lesson1 unit1
+this person	kochira	lesson1 unit1
+topic partikel	wa	unit1 lesson1
+to be	desu	lesson1 unit1
+to be (neg)	dewa arimasen/dewa nai desu	lesson1 unit1
+to be (past)	deshita	lesson1 unit1
+to be (past/neg)	dewa arimasen deshita/dewa nakata desu	lesson1 unit1
+of (particle)	no	lesson1 unit1
+lawyer	bengoshi	lesson1 unit1
+how do you do	hajimemashite	unit1 lesson1
+pleased to meet you	yoroshiku onegaishimasu	unit1 lesson1
+department store	dep^ato	lesson1 unit1
+Japan	Nihon	unit1 lesson1
+China	Chūgoku	lesson1 unit1
+Germany	Doitsu	unit1 lesson1
+UK	Igirisu	unit1 lesson1
+USA	Amerika	unit1 lesson1
+Australia	ōsutoraria	lesson1 unit1
+Thailand	Tai	unit1 lesson1
+secretary	hisho	unit1 lesson1
+student	gakusei	unit1 lesson1
+engineer	enjinia	lesson1 unit1
+question particle	ka	lesson1 unit1
+yes	hai	unit1 lesson1
+no	iie	unit1 lesson1
+you	anata	unit1 lesson1
+I	watashi	unit1 lesson1
+bank	gīnko	lesson1 unit1
+university	daigaku	unit1 lesson1
+business card	meishi	unit1 lesson2
+company	kaisha	unit1 lesson2
+please (when giving)	dōzo	lesson2 unit1
+thank you	dōmo arigatō gozaimasu	unit1 lesson2
+this thing	kore	unit1 lesson2
+name	namae	unit1 lesson2
+yes (less formal)	ee	unit1 lesson2
+indeed	sō desu	unit1 lesson2
+zero	zero/rei	unit1 lesson2
+one	ichi	unit1 lesson2
+two	ni	unit1 lesson2
+three	san	unit1 lesson2
+four	yon/shi	unit1 lesson2
+five	go	unit1 lesson2
+six	roku	unit1 lesson2
+seven	nana/shichi	unit1 lesson2
+eight	hachi	unit1 lesson2
+nine	kyū/ku	unit1 lesson2
+address	jūsho	lesson2 unit1
+phone	denwa	unit1 lesson2
+number	bangō	unit1 lesson2
+e-mail address	m^eru-adoresu	unit1 lesson2
+cell phone	keitai	lesson2 unit1
+umbrella	kasa	unit1 lesson2
+book	hon	lesson2 unit1
+newspaper	shimbun	unit1 lesson2
+key	kagi	unit1 lesson2
+clock	tokei	lesson2 unit1
+what	nan	unit1 lesson2
+who	dare / donata	unit1 lesson2
+embassy	taishikan	unit1 lesson2
+what number	nan-ban	unit1 lesson2
+country	kuni	lesson1 unit1
+nationality	kokuseki	lesson1 unit1
+to make a mistake	chigaimasu	lesson2 unit1
+please (get me ...)/I request	onegaishimasu	lesson1 unit1
+receptionist	uketsuke	unit1 lesson1
+please go ahead/please enter	hai, dōzo	unit1 lesson1
+notebook	techō	unit1 lesson2
+I'm sorry	sumimasen	lesson2 unit1
+one more time, please	mō ichi-do onegaishimasu	unit1 lesson2
+more	mō	unit1 lesson2
+one time	ichi-do	unit1 lesson2
+excuse me	sumimasen	unit2 lesson3
+now	ima	unit2 lesson3
+what time	nan-ji	lesson3 unit2
+o'clock	-ji	unit2 lesson3
+woman	onna no hito	unit2 lesson3
+female	onna	unit2 lesson3
+person	hito	unit2 lesson3
+nine o'clock	ku-ji	unit2 lesson3
+fifty minutes	gojuppun/gojippun	unit2 lesson3
+fifty	gojū	unit2 lesson3
+minute	-fun/-pun	unit2 lesson3
+from (particle/time)	kara	unit2 lesson3
+until (particle/time)	made	unit2 lesson3
+p.m. / in the afternoon	gogo	unit2 lesson3
+you're welcome	dō itashimashite	unit2 lesson3
+supermarket	sūpā	unit2 lesson3
+restaurant	resutoran	unit2 lesson3
+post office	yūbinkyoku	unit2 lesson3
+job/work	shigoto	unit2 lesson3
+meeting	kaigi	unit2 lesson3
+lunch break	hiru-yasumi	unit2 lesson3
+noon	hiru	unit2 lesson3
+rest/break	yasumi	unit2 lesson3
+party	pātī	unit2 lesson3
+movie	eiga	unit2 lesson3
+half past (of time)	han	unit2 lesson3
+a.m./in the morning	gozen	lesson3 unit2
+morning	asa	unit2 lesson3
+breakfast	asa-gohan	lesson3 unit2
+evening	ban	unit2 lesson3
+meal	gohan	unit2 lesson3
+front desk (of a hotel)	furonto	unit2 lesson3
+dinner	ban-gohan	unit2 lesson3
+pool	pūru	unit2 lesson3
+jimu	gym	unit2 lesson3
+I see	sō desu ka	unit2 lesson3
+shop, store, restaurant	mise	unit2 lesson4
+may I help you?/welcome to the store	irasshaimase	unit2 lesson4
+please show me	misete kudasai	unit2 lesson4
+how much (money)	ikura	lesson4 unit2
+yen	-en	unit2 lesson4
+also, too, either (particle)	mo	lesson4 unit2
+well then	ja	unit2 lesson4
+please give me	kudasai	unit2 lesson4
