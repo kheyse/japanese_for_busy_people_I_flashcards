@@ -9,7 +9,7 @@ of (particle)	no	lesson1 unit1
 lawyer	bengoshi	lesson1 unit1
 how do you do	hajimemashite	unit1 lesson1
 pleased to meet you	yoroshiku onegaishimasu	unit1 lesson1
-department store	dep^ato	lesson1 unit1
+department store	depāto	lesson1 unit1
 Japan	Nihon	unit1 lesson1
 China	Chūgoku	lesson1 unit1
 Germany	Doitsu	unit1 lesson1
@@ -31,24 +31,24 @@ business card	meishi	unit1 lesson2
 company	kaisha	unit1 lesson2
 please (when giving)	dōzo	lesson2 unit1
 thank you	dōmo arigatō gozaimasu	unit1 lesson2
-this thing	kore	unit1 lesson2
+this thing here	kore	lesson2 unit1
 name	namae	unit1 lesson2
 yes (less formal)	ee	unit1 lesson2
 indeed	sō desu	unit1 lesson2
-zero	zero/rei	unit1 lesson2
-one	ichi	unit1 lesson2
-two	ni	unit1 lesson2
-three	san	unit1 lesson2
+zero	zero/rei	lesson2 number unit1
+one	ichi	lesson2 number unit1
+two	ni	lesson2 number unit1
+three	san	lesson2 number unit1
 four	yon/shi	unit1 lesson2
 five	go	unit1 lesson2
-six	roku	unit1 lesson2
-seven	nana/shichi	unit1 lesson2
-eight	hachi	unit1 lesson2
-nine	kyū/ku	unit1 lesson2
+six	roku	lesson2 number unit1
+seven	nana/shichi	lesson2 number unit1
+eight	hachi	lesson2 number unit1
+nine	kyū/ku	lesson2 number unit1
 address	jūsho	lesson2 unit1
 phone	denwa	unit1 lesson2
 number	bangō	unit1 lesson2
-e-mail address	m^eru-adoresu	unit1 lesson2
+e-mail address	mēru-adoresu	unit1 lesson2
 cell phone	keitai	lesson2 unit1
 umbrella	kasa	unit1 lesson2
 book	hon	lesson2 unit1
@@ -81,8 +81,8 @@ nine o'clock	ku-ji	unit2 lesson3
 fifty minutes	gojuppun/gojippun	unit2 lesson3
 fifty	gojū	unit2 lesson3
 minute	-fun/-pun	unit2 lesson3
-from (particle/time)	kara	unit2 lesson3
-until (particle/time)	made	unit2 lesson3
+from (particle/time &amp; place)	kara	lesson3 unit2
+until/to (particle/place &amp; time)	made	lesson3 unit2
 p.m. / in the afternoon	gogo	unit2 lesson3
 you're welcome	dō itashimashite	unit2 lesson3
 supermarket	sūpā	unit2 lesson3
@@ -103,8 +103,8 @@ evening	ban	unit2 lesson3
 meal	gohan	unit2 lesson3
 front desk (of a hotel)	furonto	unit2 lesson3
 dinner	ban-gohan	unit2 lesson3
-pool	pūru	unit2 lesson3
-jimu	gym	unit2 lesson3
+pool	pūru	lesson3 unit2
+gym	jimu	lesson3 unit2
 I see	sō desu ka	unit2 lesson3
 shop, store, restaurant	mise	unit2 lesson4
 may I help you?/welcome to the store	irasshaimase	unit2 lesson4
@@ -114,3 +114,36 @@ yen	-en	unit2 lesson4
 also, too, either (particle)	mo	lesson4 unit2
 well then	ja	unit2 lesson4
 please give me	kudasai	unit2 lesson4
+good morning	ohayō gozaimasu	lesson2 unit1
+good evening	konban wa	lesson2 unit1
+hello/good afternoon	konnichiwa	lesson2 unit1
+television	terebi	lesson4 unit2
+radio	rajio	lesson4 unit2
+(personal) computer	pasokon	lesson4 unit2
+digital camera	dejikame	lesson4 unit2
+video camera	bideo-kamera	lesson4 unit2
+video	bideo	lesson4 unit2
+camera	kamera	lesson4 unit2
+CD player	CD-purēyā	lesson4 unit2
+CD	CD (shīdī)	lesson4 unit2
+that one over there	are	lesson4 unit2
+that thing close to you	sore	lesson4 unit2
+magazine	zasshi	lesson4 unit2
+DVD	DVD (dībuidī)	lesson4 unit2
+mechanical pencil	shāpupenshiru	lesson4 unit2
+ballpoint pen	bōrupen	lesson4 unit2
+France	Furansu	lesson4 unit2
+dictionary	jisho	lesson4 unit2
+English (language)	Eigo	lesson4 unit2
+suffix for languages	-go	lesson1 unit1
+(credit) card	kādo	lesson4 unit2
+is ... al right?	demo ii desu ka	lesson4 unit2
+yes, it's fine	hai, kekkō desu	lesson4 unit2
+thousand	sen	lesson4 number unit2
+ten thousand	man	lesson4 number unit2
+one hundred million (10<sup>8</sup>)	oku	lesson4 number unit2
+one trillion (10<sup>12</sup>)	chō	lesson4 number unit2
+decimal point	ten	lesson4 unit2
+part (e.g. in 1/4)	bun	lesson4 unit2
+ten	jū	lesson3 number unit2
+one hundred	hyaku	lesson3 number unit2
