@@ -144,7 +144,7 @@ decimal point	ten	lesson4 unit2
 part (e.g. in 1/4)	bun	lesson4 unit2
 ten	jū	lesson3 number unit2
 one hundred	hyaku	lesson3 number unit2
-... years old	-sai	misc
+... years old	-sai	lesson3 misc unit2
 this ... close to me	kono	lesson5 unit2
 that ... close to you	sono	lesson5 unit2
 that ... over there	ano	lesson5 unit2
@@ -194,17 +194,17 @@ so long (said by person leaving home)	ittekimasu	expressions
 -ese, -ian (person from)	-jin	lesson1 unit1
 now	ima	lesson3 unit2
 good-bye (formal)	shitsureishimasu	expressions
-how many years old?	nansai	misc
-before	mae	misc
-to eat	tabemasu	misc
-to wake up/to get up	okimasu	misc
-major (studies)	senkō	misc
-friend	tomodachi	misc
+how many years old?	nansai	lesson3 misc unit2
+before	mae	lesson3 misc unit2
+to eat	tabemasu	misc unit2
+to wake up/to get up	okimasu	misc unit2
+major (studies)	senkō	misc unit2
+friend	tomodachi	misc unit2
 pencil	enpitsu	misc
-shoes	kutsu	misc
-bag	kaban	misc
-jeans	jiinzu	misc
-bike	jitensha	misc
-notebook	nōto	misc
-hat	bōshi	misc
-wallet	saifu	misc
+shoes	kutsu	misc unit2
+bag	kaban	misc unit2
+jeans	jiinzu	misc unit2
+bike	jitensha	misc unit2
+notebook	nōto	misc unit2
+hat	bōshi	misc unit2
+wallet	saifu	misc unit2
