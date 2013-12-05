@@ -55,13 +55,13 @@ book	hon	lesson2 unit1
 newspaper	shimbun	lesson2 unit1
 key	kagi	lesson2 unit1
 watch, clock	tokei	lesson2 unit1
-what	nan	lesson2 unit1
+what	nan / nani	lesson2 unit1
 who	dare/donata	lesson1 unit1
 embassy	taishikan	lesson2 unit1
 what number	nan-ban	lesson2 unit1
 country	kuni	lesson1 unit1
 nationality	kokuseki	lesson1 unit1
-to make a mistake	chigaimasu	lesson2 unit1
+to make a mistake	chigaimasu	lesson2 unit1 verb
 please (get me ...), I request	onegaishimasu	lesson1 unit1
 receptionist	uketsuke	lesson1 unit1
 please go ahead, please enter, please feel free	hai, dōzo	lesson1 unit1
@@ -193,11 +193,11 @@ take care of yourself (used toward ill or injured person)	o-daijini	expressions
 so long (said by person leaving home)	ittekimasu	expressions
 -ese, -ian (person from)	-jin	lesson1 unit1
 now	ima	lesson3 unit2
-good-bye (formal, lit., "I'm going to be rude")	shitsureishimasu	expressions
+good-bye (formal, lit., "I'm going to be rude")	shitsureishimasu	expressions lesson6 unit3
 how many years old?	nansai	lesson3 misc unit2
 before	mae	lesson3 misc unit2
-to eat	tabemasu	misc unit2
-to wake up/to get up	okimasu	misc unit2
+to eat	tabemasu&nbsp;(taberu)	misc unit2 verb
+to wake up/to get up	okimasu (okiru)	misc unit2 verb
 major (studies)	senkō	misc unit2
 friend	tomodachi	lesson6 unit3
 pencil	enpitsu	misc
@@ -212,10 +212,10 @@ hello (on the phone)	moshimoshi	lesson6 unit3
 tomorrow	ashita	lesson6 unit3
 there (where your listener is)	sochira	lesson6 unit3
 to (particle of direction)	ni	lesson6 unit3
-go	ikimasu	lesson6 unit3
+to go	ikimasu (iku)	lesson6 unit3 verb
 right?; isn't it? (particle)	ne	lesson6 unit3
 alone (lit., "by one person")	hitore de	lesson6 unit3
-come	kimasu	lesson6 unit3
+to come	kimasu (irregular verb kuru)	lesson6 unit3
 with, together with (particle)	to	lesson6 unit3
 well then, in any case (formal form of ja)	dewa	lesson6 unit3
 (counter for general objects)	<div>hitotsu</div><div>futatsu</div><div>mittsu</div><div>yottsu</div><div>itsutsu</div><div>muttsu</div><div>nanatsu</div><div>yattsu</div><div>kokonotsu</div><div>tou</div><div>juuichi</div><div>juuni</div><div>...</div>	lesson5 unit2
@@ -224,7 +224,7 @@ station	eki	lesson6 unit3
 branch office	shisha	lesson6 unit3
 park	kōen	lesson6 unit3
 house&nbsp;	uchi	lesson6 unit3
-return, go home	kaerimasu	lesson6 unit3
+to return, to go home	kaerimasu (kaeru)	lesson6 unit3 verb
 yesterday	kinō	lesson6 unit3
 today	kyō	lesson6 unit3
 last week	senshū	lesson6 unit3
@@ -237,4 +237,123 @@ last year	kyonen	lesson6 unit3
 this year	kotoshi	lesson6 unit3
 next year	rainen	lesson6 unit3
 London	Rondon	lesson1 unit1
-Tokyo	Tōkyo	lesson1 unit1
+Tokyo	Tōkyō	lesson1 unit1
+computer	konpyūtā	misc unit2
+business	bijinesu	misc unit2
+history	rekishi	misc unit2
+to drink	nomimasu (nomu)	misc unit3 verb
+to read	yomimasu (yomu)	misc unit3 verb
+to write	kakimasu (kaku)	misc unit3 verb
+to speak	hanashimasu (hanasu)	misc unit3 verb
+to do	shimasu (irregular verb suru)	misc unit3 verb
+(verb suffix: present, pos, formal)	-masu	unit3
+(verb suffix: present, neg, formal)	-masen	unit3
+(verb suffix: past, pos, formal)	-mashita	unit3
+(verb suffix: past, neg, formal)	-masendeshita	unit3
+to see/to watch/to look?	mimasu (miru)	misc unit3 verb
+to listen/to ask	kikimasu (kiku)	misc unit3 verb
+to sleep/go to bed	nemasu (neru)	misc unit3 verb
+to study	benkyōshimasu (benkyōsuru)	misc unit3 verb
+(subject particle)	ga	lesson6 unit3
+music	ongaku	lesson6 misc unit3
+omelette	omuretsu	lesson6 misc unit3
+omelette with rice	omuraisu	lesson6 misc unit3
+a salad	sarada	lesson6 misc unit3
+fish	sakana	lesson6 misc unit3
+tennis	tenisu	lesson6 misc unit3
+hamburger	hambāgā	lesson6 misc unit3
+school	gakkō	lesson6 misc unit3
+tea-room	kissaten	lesson6 misc unit3
+green tea	ocha	lesson6 misc unit3
+library	toshokan	lesson6 misc unit3
+sports	supōtsu	lesson6 misc unit3
+(cold) water	mizu	lesson6 misc unit3
+the day after tomorrow	asatte	lesson6 unit3
+the day before yesterday	ototoi	lesson6 misc unit3
+Kyoto	Kyōto	lesson6 unit3
+when	itsu	lesson6 unit3
+oh (interjection used to get someone's attention)	a	lesson6 unit3
+business trip	shutchō	lesson6 unit3
+bus	basu	lesson6 unit3
+driver	untenshu	lesson6 unit3
+which (used before a noun)	dono	lesson6 unit3
+number ... (counter; used as suffix after a number)	-ban	lesson6 unit3
+please come in	ohairikudasai	lesson7 unit3
+come right this way	dōzo kochira e	lesson7 unit3
+by means of (particle indicating means)	de	lesson7 unit3
+subway	chikatetsu	lesson7 unit3
+at, on, in (particle indicating time)	ni	lesson7 unit3
+year (counter)	-nen	lesson7 unit3
+day (of the week)	-yōbi	lesson7 unit3
+month (counter)	-gatsu	lesson7 unit3
+day (of the month) (counter)	-nichi	lesson7 unit3
+train	densha	lesson7 unit3
+taxi	takushī	lesson7 unit3
+bullet train (in Japan)	shinkansen	lesson7 unit3
+airplane	hikōki	lesson7 unit3
+by foot, by walking	aruite	lesson7 unit3
+by what means	nan de	lesson7 unit3
+festival	o-matsuri	lesson7 unit3
+what month	nan-gatsu	lesson7 unit3
+what day (of the month)	nan-nichi	lesson7 unit3
+what day (of the week)	nan-yōbi	lesson7 unit3
+birthday	tanjōbi	lesson7 unit3
+summer vacation	natsu-yasumi	lesson7 unit3
+summer	natsu	lesson7 unit3
+trip, travel	ryokō	lesson7 unit3
+hotel	hoteru	lesson7 unit3
+(days of the week)	<div>getsu-yōbi</div><div>ka-yōbi</div><div>sui-yōbi</div><div>moku-yōbi</div><div>kin-yōbi</div><div>do-yōbi</div><div>nichi-yōbi</div>	lesson7 unit3
+(polite prefix)	o-	lesson7 unit3
+sunday	nichi-yōbi	lesson7 unit3
+monday	getsu-yōbi	lesson7 unit3
+tuesday	ka-yōbi	lesson7 unit3
+wednesday	sui-yōbi	lesson7 unit3
+thursday	moku-yōbi	lesson7 unit3
+friday	kin-yōbi	lesson7 unit3
+saturday	do-yōbi	lesson7 unit3
+Okinawa	Okinawa (islands on the southwestern tip of Japan)	lesson7 unit3
+family	kazoku	lesson8 unit4
+Nikko (scenic area north of Tokyo)	Nikkō	lesson8 unit4
+be, exist (inanimate objects)	arimasu	lesson8 unit4
+Buddhist temple	o-tera	lesson8 unit4
+and, and so on (particle, incomplete enumeration)	ya	lesson8 unit4
+Shinto shrine	jinja	lesson8 unit4
+hot spring (resort)	onsen	lesson8 unit4
+what is a/an ...?	-tte nan desu ka	lesson8 unit4
+spa	supa	lesson8 unit4
+that's nice	ii desu ne	lesson8 unit4
+first floor, ground floor	ikkai	lesson8 unit4
+floor, story (counter)	-kai/-gai	lesson8 unit4
+first basement floor	chika ikkai	lesson8 unit4
+basement	chika	lesson8 unit4
+restroom, lavatory	o-tearai	lesson8 unit4
+parking lot	chūshajō	lesson8 unit4
+refrigerator	reizōko	lesson8 unit4
+bed	beddo	lesson8 unit4
+sofa	sofā	lesson8 unit4
+table	tēburu	lesson8 unit4
+chair	isu	lesson8 unit4
+flower	hana	lesson8 unit4
+briefcase, tote bag	kaban	lesson8 unit4
+top, above	ue	lesson8 unit4
+bottom, below, under	shita	lesson8 unit4
+front, before	mae	lesson8 unit4
+back, behind	ushiro	lesson8 unit4
+inside, middle	naka	lesson8 unit4
+next to	tonari	lesson8 unit4
+vicinity, nearby	chikaku	lesson8 unit4
+be, exist (only of animate objects)	imasu	lesson8 unit4
+and (particle)	to	lesson8 unit4
+nothing	nani mo ... -masen (neg verb)	lesson8 unit4
+no one	dare mo ... -masen (neg verb)	lesson8 unit4
+lake	mizuumi	lesson8 unit4
+man	otoko no hito	lesson8 unit4
+male, man	otoko	lesson8 unit4
+pen	pen	lesson8 unit4
+sweater	sētā	lesson8 unit4
+drawer	hikidashi	lesson8 unit4
+pocket	poketto	lesson8 unit4
+traditional Japanese inn	ryokan	lesson8 unit4
+waterfall	taki	lesson8 unit4
+buckwheat noodle shop	soba-ya	lesson8 unit4
+shop (suffix)	-ya	lesson8 unit4
