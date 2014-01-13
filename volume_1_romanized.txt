@@ -1,11 +1,11 @@
 mister, miss, madam	-san	lesson1 unit1
-this person	kochira	lesson1 unit1
+this one (polite for "this person")	kochira	lesson1 unit1
 (topic partikel)	wa	lesson1 unit1
 to be	desu	lesson1 unit1
 to be (neg)	dewa arimasen/dewa nai desu	lesson1 unit1
 to be (past)	deshita	lesson1 unit1
 to be (past, neg)	dewa arimasen deshita/dewa nakata desu	lesson1 unit1
-of (particle indicating belonging)	no	lesson1 unit1
+of (particle indicating belonging)	no	lesson1 particle unit1
 attorney, lawyer	bengoshi	lesson1 unit1
 how do you do	hajimemashite	lesson1 unit1
 pleased to meet you	yoroshiku onegaishimasu	lesson1 unit1
@@ -20,7 +20,7 @@ Thailand	Tai	lesson1 unit1
 secretary	hisho	lesson1 unit1
 student	gakusei	lesson1 unit1
 engineer	enjinia	lesson1 unit1
-(question particle)	ka	lesson1 unit1
+(question particle)	ka	lesson1 particle unit1
 yes	hai	lesson1 unit1
 no	iie	lesson1 unit1
 you	anata	lesson1 unit1
@@ -80,8 +80,8 @@ nine o'clock	ku-ji	lesson3 unit2
 fifty minutes	gojuppun/gojippun	lesson3 unit2
 fifty	gojū	lesson3 unit2
 minute	-fun/-pun	lesson3 unit2
-from (particle/time &amp; place)	kara	lesson3 unit2
-until, to (particle/place &amp; time)	made	lesson3 unit2
+from (particle/time &amp; place)	kara	lesson3 particle unit2
+until, to (particle/place &amp; time)	made	lesson3 particle unit2
 p.m., in the afternoon	gogo	lesson3 unit2
 you're welcome	dō itashimashite	lesson3 unit2
 supermarket	sūpā	lesson3 unit2
@@ -110,7 +110,7 @@ may I help you?, welcome to the store	irasshaimase	lesson4 unit2
 please show me	misete kudasai	lesson4 unit2
 how much (money)	ikura	lesson4 unit2
 yen	-en	lesson4 unit2
-also, too, either (particle)	mo	lesson4 unit2
+also, too, either (particle)	mo	lesson4 particle unit2
 well then	ja	lesson4 unit2
 please give me	kudasai	lesson4 unit2
 hello, good afternoon	konnichiwa	lesson2 unit1
@@ -152,7 +152,7 @@ T-shirt	T-shatsu	lesson5 unit2
 which thing	dore	lesson5 unit2
 blue	aoi	lesson5 unit2
 red	akai	lesson5 unit2
-(counter for flat objects)	-mai	lesson5 unit2
+(counter for flat objects)	-mai	counter lesson5 unit2
 postcard	hagaki	lesson5 unit2
 stamp	kitte	lesson5 unit2
 black	kuroi	lesson5 unit2
@@ -161,7 +161,7 @@ apple	ringo	lesson5 unit2
 large, big	ōkii	lesson5 unit2
 small, little	chiisai	lesson5 unit2
 Switzerland	Suisu	lesson5 unit2
-(counter for long objects)	-hon	lesson5 unit2
+(counter for long objects)	-hon	counter lesson5 unit2
 car	kuruma	lesson5 unit2
 Italy	Itaria	lesson5 unit2
 where, which place	doko	lesson5 unit2
@@ -211,14 +211,14 @@ wallet	saifu	misc unit2
 hello (on the phone)	moshimoshi	lesson6 unit3
 tomorrow	ashita	lesson6 unit3
 there (where your listener is)	sochira	lesson6 unit3
-to (particle of direction)	ni	lesson6 unit3
+to (particle of direction)	ni	lesson6 particle unit3
 to go	ikimasu (iku)	lesson6 unit3 verb
-right?; isn't it? (particle)	ne	lesson6 unit3
+right?; isn't it? (particle)	ne	lesson6 particle unit3
 alone (lit., "by one person")	hitore de	lesson6 unit3
-to come	kimasu (irregular verb kuru)	lesson6 unit3
-with, together with (particle)	to	lesson6 unit3
+to come	kimasu (irregular verb kuru)	lesson6 unit3 verb
+with, together with (particle)	to	lesson6 particle unit3
 well then, in any case (formal form of ja)	dewa	lesson6 unit3
-(counter for general objects)	<div>hitotsu</div><div>futatsu</div><div>mittsu</div><div>yottsu</div><div>itsutsu</div><div>muttsu</div><div>nanatsu</div><div>yattsu</div><div>kokonotsu</div><div>tou</div><div>juuichi</div><div>juuni</div><div>...</div>	lesson5 unit2
+(counter for general objects)	<div>hitotsu</div><div>futatsu</div><div>mittsu</div><div>yottsu</div><div>itsutsu</div><div>muttsu</div><div>nanatsu</div><div>yattsu</div><div>kokonotsu</div><div>tou</div><div>juuichi</div><div>juuni</div><div>...</div>	counter lesson5 unit2
 airport	kūkō	lesson6 unit3
 station	eki	lesson6 unit3
 branch office	shisha	lesson6 unit3
@@ -254,7 +254,7 @@ to see/to watch/to look?	mimasu (miru)	misc unit3 verb
 to listen/to ask	kikimasu (kiku)	misc unit3 verb
 to sleep/go to bed	nemasu (neru)	misc unit3 verb
 to study	benkyōshimasu (benkyōsuru)	misc unit3 verb
-(subject particle)	ga	lesson6 unit3
+(subject particle)	ga	lesson6 particle unit3
 music	ongaku	lesson6 misc unit3
 omelette	omuretsu	lesson6 misc unit3
 omelette with rice	omuraisu	lesson6 misc unit3
@@ -277,16 +277,16 @@ business trip	shutchō	lesson6 unit3
 bus	basu	lesson6 unit3
 driver	untenshu	lesson6 unit3
 which (used before a noun)	dono	lesson6 unit3
-number ... (counter; used as suffix after a number)	-ban	lesson6 unit3
+number ... (counter; used as suffix after a number)	-ban	counter lesson6 unit3
 please come in	ohairikudasai	lesson7 unit3
 come right this way	dōzo kochira e	lesson7 unit3
-by means of (particle indicating means)	de	lesson7 unit3
+by means of (particle indicating means)	de	lesson7 particle unit3
 subway	chikatetsu	lesson7 unit3
-at, on, in (particle indicating time)	ni	lesson7 unit3
-year (counter)	-nen	lesson7 unit3
+at, on, in (particle indicating time)	ni	lesson7 particle unit3
+year (counter)	-nen	counter lesson7 unit3
 day (of the week)	-yōbi	lesson7 unit3
-month (counter)	-gatsu	lesson7 unit3
-day (of the month) (counter)	-nichi	lesson7 unit3
+month (counter)	-gatsu	counter lesson7 unit3
+day (of the month) (counter)	-nichi	counter lesson7 unit3
 train	densha	lesson7 unit3
 taxi	takushī	lesson7 unit3
 bullet train (in Japan)	shinkansen	lesson7 unit3
@@ -314,16 +314,16 @@ saturday	do-yōbi	lesson7 unit3
 Okinawa	Okinawa (islands on the southwestern tip of Japan)	lesson7 unit3
 family	kazoku	lesson8 unit4
 Nikko (scenic area north of Tokyo)	Nikkō	lesson8 unit4
-be, exist (inanimate objects)	arimasu	lesson8 unit4
+be, exist (inanimate objects)	arimasu (aru)	lesson8 unit4 verb
 Buddhist temple	o-tera	lesson8 unit4
-and, and so on (particle, incomplete enumeration)	ya	lesson8 unit4
+and, and so on (particle, incomplete enumeration)	ya	lesson8 particle unit4
 Shinto shrine	jinja	lesson8 unit4
 hot spring (resort)	onsen	lesson8 unit4
 what is a/an ...?	-tte nan desu ka	lesson8 unit4
 spa	supa	lesson8 unit4
 that's nice	ii desu ne	lesson8 unit4
 first floor, ground floor	ikkai	lesson8 unit4
-floor, story (counter)	-kai/-gai	lesson8 unit4
+floor, story (counter)	-kai/-gai	counter lesson8 unit4
 first basement floor	chika ikkai	lesson8 unit4
 basement	chika	lesson8 unit4
 restroom, lavatory	o-tearai	lesson8 unit4
@@ -342,8 +342,8 @@ back, behind	ushiro	lesson8 unit4
 inside, middle	naka	lesson8 unit4
 next to	tonari	lesson8 unit4
 vicinity, nearby	chikaku	lesson8 unit4
-be, exist (only of animate objects)	imasu	lesson8 unit4
-and (particle)	to	lesson8 unit4
+be, exist (only of animate objects)	imasu (iru)	lesson8 unit4 verb
+and (particle)	to	lesson8 particle unit4
 nothing	nani mo ... -masen (neg verb)	lesson8 unit4
 no one	dare mo ... -masen (neg verb)	lesson8 unit4
 lake	mizuumi	lesson8 unit4
@@ -357,3 +357,9 @@ traditional Japanese inn	ryokan	lesson8 unit4
 waterfall	taki	lesson8 unit4
 buckwheat noodle shop	soba-ya	lesson8 unit4
 shop (suffix)	-ya	lesson8 unit4
+(months of the year)	ichi-gatsu<div>ni-gatsu</div><div>san-gatsu</div><div>shi-gatsu</div><div>go-gatsu</div><div>rokku-gatsu</div><div>shichi-gatsu</div><div>hachi-gatsu</div><div>ku-gatsu</div><div>jū-gatsu</div><div>jūichi-gatsu</div><div>jūni-gatsu</div>	lesson7 unit3
+(days of the month)	tsuitachi<div>futsuka</div><div>mikka</div><div>yokka</div><div>itsuka</div><div>muika</div><div>nanoka</div><div>yōka</div><div>kokonoka</div><div>tōka</div><div>jūichi-nichi</div><div>...</div><div>jūyokka</div><div>...</div><div>jūshichi-nichi</div><div>...</div><div>hatsuka</div><div>...</div>	lesson7 unit3
+... year student	-nensei	misc unit2
+to buy	kaimasu (kau)	misc unit4
+to meet	aimasu (au) (+ ni)	misc unit4
+to live in ...	... ni sundeimasu	misc unit4
