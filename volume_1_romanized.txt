@@ -223,7 +223,7 @@ airport	kūkō	lesson6 unit3
 station	eki	lesson6 unit3
 branch office	shisha	lesson6 unit3
 park	kōen	lesson6 unit3
-house&nbsp;	uchi	lesson6 unit3
+house	uchi	lesson6 unit3
 to return, to go home	kaerimasu (kaeru)	lesson6 unit3 verb
 yesterday	kinō	lesson6 unit3
 today	kyō	lesson6 unit3
@@ -250,7 +250,7 @@ to do	shimasu (irregular verb suru)	misc unit3 verb
 (verb suffix: present, neg, formal)	-masen	unit3
 (verb suffix: past, pos, formal)	-mashita	unit3
 (verb suffix: past, neg, formal)	-masendeshita	unit3
-to see/to watch/to look?	mimasu (miru)	misc unit3 verb
+to see/to watch/to look?	mimasu (miru)	lesson10 unit5 verb
 to listen/to ask	kikimasu (kiku)	misc unit3 verb
 to sleep/go to bed	nemasu (neru)	misc unit3 verb
 to study	benkyōshimasu (benkyōsuru)	misc unit3 verb
@@ -264,7 +264,7 @@ tennis	tenisu	lesson6 misc unit3
 hamburger	hambāgā	lesson6 misc unit3
 school	gakkō	lesson6 misc unit3
 tea-room	kissaten	lesson6 misc unit3
-green tea	ocha	lesson6 misc unit3
+green tea	o-cha	lesson6 misc unit3
 library	toshokan	lesson6 misc unit3
 sports	supōtsu	lesson6 misc unit3
 (cold) water	mizu	lesson6 misc unit3
@@ -273,7 +273,7 @@ the day before yesterday	ototoi	lesson6 misc unit3
 Kyoto	Kyōto	lesson6 unit3
 when	itsu	lesson6 unit3
 oh (interjection used to get someone's attention)	a	lesson6 unit3
-business trip	shutchō	lesson6 unit3
+business trip	shutchō	lesson6 marked unit3
 bus	basu	lesson6 unit3
 driver	untenshu	lesson6 unit3
 which (used before a noun)	dono	lesson6 unit3
@@ -360,6 +360,109 @@ shop (suffix)	-ya	lesson8 unit4
 (months of the year)	ichi-gatsu<div>ni-gatsu</div><div>san-gatsu</div><div>shi-gatsu</div><div>go-gatsu</div><div>rokku-gatsu</div><div>shichi-gatsu</div><div>hachi-gatsu</div><div>ku-gatsu</div><div>jū-gatsu</div><div>jūichi-gatsu</div><div>jūni-gatsu</div>	lesson7 unit3
 (days of the month)	tsuitachi<div>futsuka</div><div>mikka</div><div>yokka</div><div>itsuka</div><div>muika</div><div>nanoka</div><div>yōka</div><div>kokonoka</div><div>tōka</div><div>jūichi-nichi</div><div>...</div><div>jūyokka</div><div>...</div><div>jūshichi-nichi</div><div>...</div><div>hatsuka</div><div>...</div>	lesson7 unit3
 ... year student	-nensei	misc unit2
-to buy	kaimasu (kau)	misc unit4
-to meet	aimasu (au) (+ ni)	misc unit4
-to live in ...	... ni sundeimasu	misc unit4
+to buy	kaimasu (kau)	misc unit4 verb
+to meet	aimasu (au) (+ ni)	meet misc unit4
+to live in ...	... ni sunde imasu	misc unit4
+usually	taitei	misc unit3
+sometimes	tokidoki	misc unit3
+quick/early	hayai	misc unit4
+weekend	shūmatsu	misc unit3
+to wait	machimasu (machu)	misc unit3 verb
+left	hidari	misc unit4
+right	migi	misc unit4
+over there	asoko	lesson9 unit4
+convenience store	kombini	lesson9 unit4
+taxi stand	takushī noriba	lesson9 unit4
+bus terminal	basu noriba	lesson9 unit4
+police box	kōban	lesson9 unit4
+hospital	byōin	lesson9 unit4
+bookstore	honya	lesson9 unit4
+bakery	panya	lesson9 unit4
+brood	pan	lesson9 unit4
+liquor store	sakaya	lesson9 unit4
+drugstore	kusuriya	lesson9 unit4
+medicine	kusuri	lesson9 unit4
+eraser	keshigomu	lesson9 unit4
+stapler	hotchikisu	lesson9 unit4
+scissors	hasami	lesson9 unit4
+scotch tape	sero-tēpu	lesson9 unit4
+file	fairu	lesson9 unit4
+one person<div>two persons</div><div>three persons</div>	hitori<div>futari</div><div>san-nin</div>	lesson9 unit4
+how many persons	nan-nin	lesson9 unit4
+a lot, many	takusan	lesson9 unit4
+boy	otoko no ko	lesson9 unit4
+child	ko	lesson9 unit4
+girl	onna no ko	lesson9 unit4
+how many (small objects)	ikutsu	lesson9 unit4
+how many (flat objects)	nan-mai	lesson9 unit4
+how many (long, thin objects)	nan-bon	lesson9 unit4
+here	koko	lesson9 unit4
+garden	niwa	lesson9 unit4
+conference room	kaigishitsu	lesson9 unit4
+cart (for luggage)	kāto	lesson9 unit4
+check-in counter	chekkuin-kauntā	lesson9 unit4
+bus stop	basutei	lesson9 unit4
+entrance	iriguchi	lesson9 unit4
+about/approximately what time	nan-ji goro	lesson9 unit4
+about (used of time)	goro	lesson9 unit4
+Kabuki (traditional theater)	Kabuki	lesson10 unit5
+(black) tea	kōcha	lesson10 unit5
+soup	sūpu	lesson10 unit5
+milk	miruku	lesson10 unit5
+juice	jūsu	lesson10 unit5
+sandwich	sandoitchi	lesson10 unit5
+play tenis	tenisu o shimasu	lesson10 unit5
+to shop	kaimono o shimasu	lesson10 unit5
+to work	shigoto o shimasu	lesson10 unit5
+every day	mainichi	lesson10 unit5
+every morning	maiasa	lesson10 unit5
+every evening	maiban	lesson10 unit5
+every week	maishū	lesson10 unit5
+to jog	jogingu o shimasu	lesson10 unit5
+tempura	tempura	lesson10 unit5
+steak	sutēki	lesson10 unit5
+bar	bā	lesson10 unit5
+gym, sports club	supōtsu-kurabu	lesson10 unit5
+sport(s)	supōtsu	lesson10 unit5
+club	kurabu	lesson10 unit5
+dog	inu	lesson10 unit5
+vegetable	yasai	lesson10 unit5
+(another person's) wife	okusan	lesson10 unit5
+go for a walk	sampo o shimasu	lesson10 unit5
+play golf	gorufu o shimasu	lesson10 unit5
+tennis court	tenisu-kōto	lesson10 unit5
+(humble form of desu)	de gozaimasu	lesson10 unit5
+reservation	yoyaku	lesson10 unit5
+understood; I see; I understand	wakarimashita	lesson10 unit5
+to understand	wakarimasu	lesson10 unit5 verb
+(polite form of -san)	-sama	lesson11 unit5
+often	yoku	lesson11 unit5
+be delicious, be tasty	oishii desu	lesson11 unit5
+because (particle)	kara	lesson11 unit5
+whiting	kisu	lesson11 unit5
+tempura restaurant	tempura-ya	lesson11 unit5
+to ask	kikimasu	lesson11 unit5 verb
+to phone	denwa o shimasu	lesson11 unit5 verb
+to send	okurimasu	lesson11 unit5 verb
+(another person's) father	otōsan	lesson11 unit5
+(another person's) mother	okāsan	lesson11 unit5
+(my) father	chichi	lesson11 unit5
+(my) mother	haha	lesson11 unit5
+(my) wife	tsuma/kanai	lesson11 unit5
+(another person's) husband	go-shujin	lesson11 unit5
+(honorific prefix)	go-	lesson11 unit5
+(my) husband	otto/shujin	lesson11 unit5
+letter	tegami	lesson11 unit5
+not much (expr)	amari ... -masen	lesson11 unit5
+president (of a company)	shachō	lesson11 unit5
+e-mail	mēru	lesson11 unit5
+lobby	robī	lesson11 unit5
+sushi	sushi	lesson11 unit5
+not at all (expr)	zenzen ... -masen	lesson11 unit5
+sushi restaurant	sushi-ya	lesson11 unit5
+ice cream	aisu-kurīmu	lesson11 unit5
+this coming	kondo	lesson11 unit5
+machine	mashīn	lesson11 unit5
+<div>cooking, cuisine</div>	ryōri	lesson11 unit5
+bill, check	o-kanjō	lesson11 unit5
+receipt	ryōshūsho	lesson11 unit5
