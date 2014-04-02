@@ -240,7 +240,7 @@ London	ロンドん	lesson1 unit1
 Tokyo	とうきょう	lesson1 unit1
 computer	コンピューター	misc unit2
 business	ビジネス	misc unit2
-history	れきし	misc unit2
+history	れきし	unit6 lesson13
 to drink	のみます (nomu)	misc unit3 verb
 to read	よみます (yomu)	misc unit3 verb
 to write	かきます (kaku)	misc unit3 verb
@@ -466,3 +466,105 @@ machine	マシーン	lesson11 unit5
 <div>cooking, cuisine</div>	りょうり	lesson11 unit5
 bill, check	おかんじょう	lesson11 unit5
 receipt	りょうしゅうしょ	lesson11 unit5
+please	どうぞ	unit6 lesson12
+sweets	おかし	unit6 lesson12
+how about...?	いかがですか	unit6 lesson12
+said before eating	いただきます	unit6 lesson12
+pretty	きれい （な）	unit6 lesson12
+very	とても	unit6 lesson12
+cupful, glassful (counter)	はい・ばい・ぱい	unit6 lesson12
+no thank you, Im fine'	いいえ、もう けっこうです	unit6 lesson12
+no thank you	けっこうです	unit6 lesson12
+please help yourself to...	(thing) を どうぞ	unit6 lesson12
+big	おおきい	unit6 lesson12
+small	ちいさい	unit6 lesson12
+expensive	たかい	unit6 lesson12
+inexpensive	やすい	unit6 lesson12
+new, fresh	あたらしい	unit6 lesson12
+old (not used for people)	ふるい	unit6 lesson12
+near	ちかい	unit6 lesson12
+far	とおい	unit6 lesson12
+difficult	むずかしい	unit6 lesson12
+easy	やさしい	unit6 lesson12
+sweet	あまい	unit6 lesson12
+spicy	からい	unit6 lesson12
+hot	あつい	unit6 lesson12
+cold	さむい	unit6 lesson12
+good	いい	unit6 lesson12
+interesting	おもしろい	unit6 lesson12
+busy	いそがしい	unit6 lesson12
+lively	にぎやか	unit6 lesson12
+quiet	しずか	unit6 lesson12
+convenient	べんり	unit6 lesson12
+famous	ゆうめい	unit6 lesson12
+kind, helpful	しんせつ	unit6 lesson12
+free, not busy	ひま	unit6 lesson12
+to have a meal	しょくじを します	unit6 lesson12
+cake	ケーキ	unit6 lesson12
+curry	カレー	unit6 lesson12
+game	ゲーム	unit6 lesson12
+what kind of	どんな	unit6 lesson12
+place	ところ	unit6 lesson12
+painting	え	unit6 lesson12
+weather	てんき	unit6 lesson12
+really	ほんとうに	unit6 lesson12
+about five minutes	５ふんぐらい	unit6 lesson12
+about, approximately (used for a period, price, amount, etc) [particle]	ぐらい	unit6 lesson12
+please wait a minute	ちょっと まってください	unit6 lesson12
+a little bit	ちょっと	unit6 lesson12
+welcome	よく いらっしゃいました	unit6 lesson12
+may I come in? - said when entering someone's home	おじゃまします	unit6 lesson12
+to give	あげます	unit6 lesson13
+to receive	もらいます	unit6 lesson13
+someone gives something to me (verb)	くれます	unit6 lesson13
+vase	かびん	unit6 lesson13
+receive	もらいます	unit6 lesson13
+color	いろ	unit6 lesson13
+favorite (ーな adj.)	すきな	unit6 lesson13
+rose	ばら	unit6 lesson13
+carnation	カーネーション	unit6 lesson13
+tulip	チューリップ	unit6 lesson13
+bouquet	はなたば	unit6 lesson13
+earring	イヤリング	unit6 lesson13
+necklace	ネックレス	unit6 lesson13
+ring	ゆびわ	unit6 lesson13
+scarf	スカーフ	unit6 lesson13
+blouse	ブラウス	unit6 lesson13
+ticket	きっぷ	unit6 lesson13
+hat, cap	ぼうし	unit6 lesson13
+necktie	ネクタイ	unit6 lesson13
+coat	コート	unit6 lesson13
+gift, souvenir	おみやげ	unit6 lesson13
+electronic dictionary	でんしじしょ	unit6 lesson13
+Christmas	クリスマス	unit6 lesson13
+Valentine's Day	バレンタインデー	unit6 lesson13
+chocolate	チョコレート	unit6 lesson13
+present	プレゼント	unit6 lesson13
+Mother's Day	ははの ひ	unit6 lesson13
+Father's Day	ちちの ひ	unit6 lesson13
+wedding anniversary	けっこんきねんび	unit6 lesson13
+marriage	けっこん	unit6 lesson13
+anniversary	きねんび	unit6 lesson13
+well	よく	unit6 lesson13
+suit, look good on	にあいます	unit6 lesson13
+it's time to be going, I'd better get going	そろそろ しつれいします	unit6 lesson13
+in just a short while	そろそろ	unit6 lesson13
+peach	もも	unit6 lesson13
+(another person's) house	おたく	lesson14 unit6
+fun, enjoyable	たのしい	unit6 lesson14
+we	わたしたち	unit6 lesson14
+again	また	unit6 lesson14
+please come	きてください	unit6 lesson14
+boring, tedious	つまらない	unit6 lesson14
+bad	わるい	unit6 lesson14
+concert	コンサート	unit6 lesson14
+clearance sale	バーゲンセール	unit6 lesson14
+show	ショー	unit6 lesson14
+how was...?	どうでしたか	unit6 lesson14
+how	どう	unit6 lesson14
+to be (honorific word for います)	いらっしゃいます	unit6 lesson14
+please wait a minute (politer way of saying ちょっと まってください)	ちょっと おまちください	unit6 lesson14
+cold (aff., present form)	さむいです	unit6 lesson14
+cold (neg., present form)	さむくないです	unit6 lesson14
+cold (aff., past form)	さむかったです	unit6 lesson14
+cold (neg., past form)	さむくなかったです	unit6 lesson14
