@@ -1,6 +1,6 @@
 mister, miss, madam	さん	lesson1 unit1
 this one (polite for "this person")	こちら	lesson1 unit1
-(topic partikel)	は	lesson1 unit1
+(topic partikel)	は	lesson1 particle unit1
 to be	です	lesson1 unit1
 to be (neg)	ではありません/ではないです	lesson1 unit1
 to be (past)	でした	lesson1 unit1
@@ -10,7 +10,7 @@ attorney, lawyer	べんごし	lesson1 unit1
 how do you do	はじめまして	lesson1 unit1
 pleased to meet you	よろしく おねがいします	lesson1 unit1
 department store	デパート	lesson1 unit1
-Japan	日本	lesson1 unit1
+Japan	にほん (日本)	lesson1 unit1
 China	ちゅうごく	lesson1 unit1
 Germany	ドイツ	lesson1 unit1
 UK	イギリス	lesson1 unit1
@@ -56,7 +56,7 @@ newspaper	しんぶん	lesson2 unit1
 key	かぎ	lesson2 unit1
 watch, clock	とけい	lesson2 unit1
 what	なん / なに	lesson2 unit1
-who	どなた/どなた	lesson1 unit1
+who	だれ/どなた	lesson1 unit1
 embassy	たいしかん	lesson2 unit1
 what number	なんばん	lesson2 unit1
 country	くに	lesson1 unit1
@@ -77,7 +77,7 @@ woman	おんなの ひと	lesson3 unit2
 female	おんな	lesson3 unit2
 person	ひと	lesson3 unit2
 nine o'clock	くじ	lesson3 unit2
-fifty minutes	ごじゅっぷn/ごじっぷn	lesson3 unit2
+fifty minutes	ごじゅっぷん / ごじっぷん	lesson3 unit2
 fifty	ごじゅう	lesson3 unit2
 minute	-ふん/-ぷん	lesson3 unit2
 from (particle/time &amp; place)	から	lesson3 particle unit2
@@ -92,7 +92,7 @@ meeting	かいぎ	lesson3 unit2
 lunch break	ひるやすみ	lesson3 unit2
 noon	ひる	lesson3 unit2
 rest, break	やすみ	lesson3 unit2
-party	パーティー?	lesson3 unit2
+party	パーティー	lesson3 unit2
 movie	えいが	lesson3 unit2
 half past (of time)	はん	lesson3 unit2
 a.m., in the morning	ごぜん	lesson3 unit2
@@ -113,7 +113,7 @@ yen	えん	lesson4 unit2
 also, too, either (particle)	も	lesson4 particle unit2
 well then	じゃ	lesson4 unit2
 please give me	ください	lesson4 unit2
-hello, good afternoon	こんいちは	lesson2 unit1
+hello, good afternoon	こんにちは	lesson2 unit1
 television	テレビ	lesson4 unit2
 radio	ラジオ	lesson4 unit2
 (personal) computer	パンコン	lesson4 unit2
@@ -126,7 +126,7 @@ CD	CD (シーディー?)	lesson4 unit2
 that thing over there	あれ	lesson4 unit2
 that thing close to you	それ	lesson4 unit2
 magazine	ざっし	lesson4 unit2
-DVD	DVD (ディーブイディー?)	lesson4 unit2
+DVD	DVD (ディーブイディー)	lesson4 unit2
 mechanical pencil	シャープペンシル	lesson4 unit2
 ballpoint pen	ボールペン	lesson4 unit2
 France	フランス	lesson4 unit2
@@ -195,17 +195,15 @@ so long (said by person leaving home)	いってきます	expressions
 now	いま	lesson3 unit2
 good-bye (formal, lit., "I'm going to be rude")	しつれいします	expressions lesson6 unit3
 how many years old?	なんさい	lesson3 misc unit2
-before	まえ	lesson3 misc unit2
 to eat	たべます (たべる)	misc unit2 verb
 to wake up/to get up	おきます (おきる)	misc unit2 verb
 major (studies)	せんこう	misc unit2
 friend	ともだち	lesson6 unit3
 pencil	えんぴつ	misc
 shoes	くつ	misc unit2
-bag	カバん	misc unit2
 jeans	ジインズ	misc unit2
 bike	じてんしゃ	misc unit2
-notebook	ノウト	misc unit2
+notebook	ノート	misc unit2
 wallet	さいふ	misc unit2
 hello (on the phone)	もしもし	lesson6 unit3
 tomorrow	あした	lesson6 unit3
@@ -216,8 +214,7 @@ right?; isn't it? (particle)	ね	lesson6 particle unit3
 alone (lit., "by one person")	ひとりで	lesson6 unit3
 to come	きます (irregular verb くる)	lesson6 unit3 verb
 with, together with (particle)	と	lesson6 particle unit3
-well then, in any case (formal form of ja)	では	lesson6 unit3
-(counter for general objects)	<div>hitotsu</div><div>futatsu</div><div>mittsu</div><div>yottsu</div><div>itsutsu</div><div>muttsu</div><div>nanatsu</div><div>yattsu</div><div>kokonotsu</div><div>tou</div><div>juuichi</div><div>juuni</div><div>...</div>	counter lesson5 unit2
+well then, in any case (formal form of じゃ)	では	lesson6 unit3
 airport	くうこう	lesson6 unit3
 station	えき	lesson6 unit3
 branch office	ししゃ	lesson6 unit3
@@ -235,22 +232,21 @@ next month	らいげつ	lesson6 unit3
 last year	きょねん	lesson6 unit3
 this year	ことし	lesson6 unit3
 next year	らいねん	lesson6 unit3
-London	ロンドん	lesson1 unit1
+London	ロンドン	lesson1 unit1
 Tokyo	とうきょう	lesson1 unit1
 computer	コンピューター	misc unit2
 business	ビジネス	misc unit2
-history	れきし	unit6 lesson13
+history	れきし	lesson13 unit6
 to drink	のみます (のむ)	misc unit3 verb
 to read	よみます (よむ)	misc unit3 verb
 to write	かきます (かく)	misc unit3 verb
 to speak	はなします (はなす)	misc unit3 verb
 to do	します (irregular verb する)	misc unit3 verb
-(verb suffix: present, pos, formal)	-masu	unit3
-(verb suffix: present, neg, formal)	-masen	unit3
-(verb suffix: past, pos, formal)	-mashita	unit3
-(verb suffix: past, neg, formal)	-masendeshita	unit3
+(verb suffix: present, pos, formal)	-ます	grammar　unit3
+(verb suffix: present, neg, formal)	-ません	grammar unit3
+(verb suffix: past, pos, formal)	-ました	grammar unit3
+(verb suffix: past, neg, formal)	-ませんでした	grammar unit3
 to see/to watch/to look?	みます (みる)	lesson10 unit5 verb
-to listen/to ask	ききます (きく)	misc unit3 verb
 to sleep/go to bed	ねます (ねる)	misc unit3 verb
 to study	べんきょうを します	misc unit3 verb
 (subject particle)	が	lesson6 particle unit3
@@ -259,7 +255,7 @@ omelette	オムレツ	lesson6 misc unit3
 omelette with rice	オムライス	lesson6 misc unit3
 a salad	サラダ	lesson6 misc unit3
 fish	さかな	lesson6 misc unit3
-tennis	テニスを	lesson6 misc unit3
+tennis	テニス	lesson6 misc unit3
 hamburger	ハンバーガー	lesson6 misc unit3
 school	がっこう	lesson6 misc unit3
 tea-room	きっさてん	lesson6 misc unit3
@@ -294,14 +290,13 @@ by foot, by walking	あるいて	lesson7 unit3
 by what means	なんで	lesson7 unit3
 festival	おまつり	lesson7 unit3
 what month	なんがつ	lesson7 unit3
-what day (of the month)	なんいち	lesson7 unit3
+what day (of the month)	なんにち	lesson7 unit3
 what day (of the week)	なんようび	lesson7 unit3
 birthday	たんじょうび	lesson7 unit3
 summer vacation	なつやすみ	lesson7 unit3
 summer	なつ	lesson7 unit3
 trip, travel	りょこう	lesson7 unit3
 hotel	ホテル	lesson7 unit3
-(days of the week)	<div>getsu-yōbi</div><div>ka-yōbi</div><div>sui-yōbi</div><div>moku-yōbi</div><div>kin-yōbi</div><div>do-yōbi</div><div>nichi-yōbi</div>	lesson7 unit3
 (polite prefix)	お	lesson7 unit3
 sunday	にちようび	lesson7 unit3
 monday	げつようび	lesson7 unit3
@@ -343,8 +338,8 @@ next to	となり	lesson8 unit4
 vicinity, nearby	ちかく	lesson8 unit4
 be, exist (only of animate objects)	います (いる)	lesson8 unit4 verb
 and (particle)	と	lesson8 particle unit4
-nothing	なにも ... -masen (neg verb)	lesson8 unit4
-no one	だれも ... -masen (neg verb)	lesson8 unit4
+nothing	なにも ... -ません (neg verb)	lesson8 unit4
+no one	だれも ... -ません(neg verb)	lesson8 unit4
 lake	みずうみ	lesson8 unit4
 man	おとこの ひと	lesson8 unit4
 male, man	おとこ	lesson8 unit4
@@ -354,14 +349,13 @@ drawer	ひきだし	lesson8 unit4
 pocket	ポケット	lesson8 unit4
 traditional Japanese inn	りょかん	lesson8 unit4
 waterfall	たき	lesson8 unit4
-buckwheat noodle shop	ぞばや	lesson8 unit4
+buckwheat noodle shop	そばや	lesson8 unit4
 shop (suffix)	や	lesson8 unit4
-(months of the year)	ichi-gatsu<div>ni-gatsu</div><div>san-gatsu</div><div>shi-gatsu</div><div>go-gatsu</div><div>rokku-gatsu</div><div>shichi-gatsu</div><div>hachi-gatsu</div><div>ku-gatsu</div><div>jū-gatsu</div><div>jūichi-gatsu</div><div>jūni-gatsu</div>	lesson7 unit3
 (days of the month)	tsuitachi<div>futsuka</div><div>mikka</div><div>yokka</div><div>itsuka</div><div>muika</div><div>nanoka</div><div>yōka</div><div>kokonoka</div><div>tōka</div><div>jūichi-nichi</div><div>...</div><div>jūyokka</div><div>...</div><div>jūshichi-nichi</div><div>...</div><div>hatsuka</div><div>...</div>	lesson7 unit3
 ... year student	ねんせい	misc unit2
 to buy	かいます (かう)	misc unit4 verb
-to meet	あいます (あう) (+ ni)	meet misc unit4
-to live in ...	... にすんでいいます	misc unit4
+to meet	あいます (あう) (+に)	misc unit4
+to live in ...	... にすんでいます	misc unit4
 usually	たいてい	misc unit3
 sometimes	ときどき	misc unit3
 quick/early	はやい	misc unit4
@@ -372,7 +366,7 @@ over there	あそこ	lesson9 unit4
 convenience store	コンビニ	lesson9 unit4
 taxi stand	タクシーのりば	lesson9 unit4
 bus terminal	バスのりば	lesson9 unit4
-police box	こうばn	lesson9 unit4
+police box	こうばん	lesson9 unit4
 hospital	びょういん	lesson9 unit4
 bookstore	ほんや	lesson9 unit4
 bakery	パンや	lesson9 unit4
@@ -385,7 +379,6 @@ stapler	ホッチキス	lesson9 unit4
 scissors	はさみ	lesson9 unit4
 scotch tape	セロテープ	lesson9 unit4
 file	ファイル	lesson9 unit4
-one person<div>two persons</div><div>three persons</div>	ひとり<div>ふたり</div><div>さんにん</div>	lesson9 unit4
 how many persons	なんにん	lesson9 unit4
 a lot, many	たくさん	lesson9 unit4
 boy	おとこの こ	lesson9 unit4
@@ -433,13 +426,13 @@ tennis court	テニスコート	lesson10 unit5
 reservation	よやく	lesson10 unit5
 understood; I see; I understand	わかりました	lesson10 unit5
 to understand	わかります (わかる)	lesson10 unit5 verb
-(polite form of -san)	さま	lesson11 unit5
+(polite form of -さん)	さま	lesson11 unit5
 often	よく	lesson11 unit5
-be delicious, be tasty	おいしいです desu	lesson11 unit5
+be delicious, be tasty	おいしいです	lesson11 unit5
 because (particle)	から	lesson11 unit5
 whiting	きす	lesson11 unit5
 tempura restaurant	てんぷらや	lesson11 unit5
-to ask	ききます (きく)	lesson11 unit5 verb
+to listen/to ask	ききます (きく)	lesson11 unit5 verb
 to phone	でんわを します	lesson11 unit5 verb
 to send	おくります (おくる)	lesson11 unit5 verb
 (another person's) father	おとうさん	lesson11 unit5
@@ -447,263 +440,297 @@ to send	おくります (おくる)	lesson11 unit5 verb
 (my) father	ちち	lesson11 unit5
 (my) mother	はは	lesson11 unit5
 (my) wife	つま/かない	lesson11 unit5
-(another person's) husband	ごじゅじん	lesson11 unit5
+(another person's) husband	ごしゅじん	lesson11 unit5
 (honorific prefix)	ご	lesson11 unit5
 (my) husband	おっと/しゅじん	lesson11 unit5
 letter	てがみ	lesson11 unit5
-not much (expr)	あまり ... -masen	lesson11 unit5
+not much (expr.)	あまり ... -ません (neg verb)	lesson11 unit5
 president (of a company)	しゃちょう	lesson11 unit5
 e-mail	メール	lesson11 unit5
 lobby	ロビー	lesson11 unit5
 sushi	すし	lesson11 unit5
-not at all (expr)	ぜんぜん ... -masen	lesson11 unit5
+not at all (expr)	ぜんぜん ... -ません (neg verb)	lesson11 unit5
 sushi restaurant	すしや	lesson11 unit5
 ice cream	アイスクリーム	lesson11 unit5
 this coming	こんど	lesson11 unit5
 machine	マシーン	lesson11 unit5
-<div>cooking, cuisine</div>	りょうり	lesson11 unit5
+cooking, cuisine	りょうり	lesson11 unit5
 bill, check	おかんじょう	lesson11 unit5
 receipt	りょうしゅうしょ	lesson11 unit5
-please	どうぞ	unit6 lesson12
-sweets	おかし	unit6 lesson12
-how about...?	いかがですか	unit6 lesson12
-said before eating	いただきます	unit6 lesson12
-pretty	きれい （な)	unit6 lesson12
-very	とても	unit6 lesson12
-cupful, glassful (counter)	はい・ばい・ぱい	unit6 lesson12
+please (when giving something)	どうぞ	lesson12 unit6
+sweets	おかし	lesson12 unit6
+how about...?	いかがですか	lesson12 unit6
+said before eating	いただきます	lesson12 unit6
+pretty	きれい (な)	lesson12 unit6
+very	とても	lesson12 unit6
+cupful, glassful (counter)	はい・ばい・ぱい	lesson12 unit6
 no thank you, I'm fine	いいえ、もう けっこうです	lesson12 unit6
-no thank you	けっこうです	unit6 lesson12
-please help yourself to...	(thing) を どうぞ	unit6 lesson12
-big	おおきい	unit6 lesson12
-small	ちいさい	unit6 lesson12
-expensive	たかい	unit6 lesson12
-inexpensive	やすい	unit6 lesson12
+no thank you	けっこうです	lesson12 unit6
+please help yourself to...	(thing) を どうぞ	lesson12 unit6
+big	おおきい	lesson12 unit6
+small	ちいさい	lesson12 unit6
+expensive	たかい	lesson12 unit6
+inexpensive	やすい	lesson12 unit6
 new, fresh	あたらしい	lesson12 unit6
-old (not used for people)	ふるい	unit6 lesson12
-near	ちかい	unit6 lesson12
-far	とおい	unit6 lesson12
-difficult	むずかしい	unit6 lesson12
-easy	やさしい	unit6 lesson12
-sweet	あまい	unit6 lesson12
-spicy	からい	unit6 lesson12
-hot	あつい	unit6 lesson12
-cold	さむい	unit6 lesson12
-good	いい	unit6 lesson12
-interesting	おもしろい	unit6 lesson12
-busy	いそがしい	unit6 lesson12
-lively	にぎやか	unit6 lesson12
-quiet	しずか	unit6 lesson12
-convenient	べんり	unit6 lesson12
-famous	ゆうめい	unit6 lesson12
-kind, helpful	しんせつ	unit6 lesson12
-free, not busy	ひま	unit6 lesson12
-to have a meal	しょくじを します	unit6 lesson12
-cake	ケーキ	unit6 lesson12
-curry	カレー	unit6 lesson12
-game	ゲーム	unit6 lesson12
-what kind of	どんな	unit6 lesson12
-place	ところ	unit6 lesson12
-painting	え	unit6 lesson12
-weather	てんき	unit6 lesson12
-really	ほんとうに	unit6 lesson12
-about five minutes	５ふんぐらい	unit6 lesson12
-about, approximately (used for a period, price, amount, etc) [particle]	ぐらい	unit6 lesson12
-please wait a minute	ちょっと まってください	unit6 lesson12
+old (not used for people)	ふるい	lesson12 unit6
+near	ちかい	lesson12 unit6
+far	とおい	lesson12 unit6
+difficult	むずかしい	lesson12 unit6
+easy	やさしい	lesson12 unit6
+sweet	あまい	lesson12 unit6
+spicy	からい	lesson12 unit6
+hot	あつい	lesson12 unit6
+cold	さむい	lesson12 unit6
+good	いい (よく)	lesson12 unit6
+interesting	おもしろい	lesson12 unit6
+busy	いそがしい	lesson12 unit6
+lively	にぎやか	lesson12 unit6
+quiet	しずか	lesson12 unit6
+convenient	べんり	lesson12 unit6
+famous	ゆうめい	lesson12 unit6
+kind, helpful	しんせつ	lesson12 unit6
+free, not busy	ひま	lesson12 unit6
+to have a meal	しょくじを します	lesson12 unit6
+cake	ケーキ	lesson12 unit6
+curry	カレー	lesson12 unit6
+game	ゲーム	lesson12 unit6
+what kind of	どんな	lesson12 unit6
+place	ところ	lesson12 unit6
+painting	え	lesson12 unit6
+weather	てんき	lesson12 unit6
+really	ほんとうに	lesson12 unit6
+about five minutes	５ふんぐらい	lesson12 unit6
+about, approximately (used for a period, price, amount, etc) [particle]	ぐらい	lesson12 unit6
+please wait a minute	ちょっと まってください	lesson12 unit6
 a little bit	ちょっと	lesson12 unit6
-welcome	よく いらっしゃいました	unit6 lesson12
-may I come in? - said when entering someone's home	おじゃまします	unit6 lesson12
-to give	あげます (あげる)	unit6 lesson13 verb
-to receive	もらいます （もらう)	unit6 lesson13 verb
-someone gives something to me (verb)	くれます (くれる)	unit6 lesson13 verb
-vase	かびん	unit6 lesson13
-color	いろ	unit6 lesson13
-favorite (ーな adj.)	すきな	unit6 lesson13
-rose	ばら	unit6 lesson13
-carnation	カーネーション	unit6 lesson13
-tulip	チューリップ	unit6 lesson13
-bouquet	はなたば	unit6 lesson13
-earring	イヤリング	unit6 lesson13
-necklace	ネックレス	unit6 lesson13
-ring	ゆびわ	unit6 lesson13
-scarf	スカーフ	unit6 lesson13
-blouse	ブラウス	unit6 lesson13
-ticket	きっぷ	unit6 lesson13
+welcome	よく いらっしゃいました	lesson12 unit6
+may I come in? - said when entering someone's home	おじゃまします	lesson12 unit6
+to give	あげます (あげる)	lesson13 unit6 verb
+to receive	もらいます (もらう)	lesson13 unit6 verb
+someone gives something to me (verb)	くれます (くれる)	lesson13 unit6 verb
+vase	かびん	lesson13 unit6
+color	いろ	lesson13 unit6
+favorite	すき (ーな adj.)	lesson13 unit6
+rose	ばら	lesson13 unit6
+carnation	カーネーション	lesson13 unit6
+tulip	チューリップ	lesson13 unit6
+bouquet	はなたば	lesson13 unit6
+earring	イヤリング	lesson13 unit6
+necklace	ネックレス	lesson13 unit6
+ring	ゆびわ	lesson13 unit6
+scarf	スカーフ	lesson13 unit6
+blouse	ブラウス	lesson13 unit6
+ticket	きっぷ	lesson13 unit6
 hat, cap	ぼうし	lesson13 unit6
-necktie	ネクタイ	unit6 lesson13
-coat	コート	unit6 lesson13
-gift, souvenir	おみやげ	unit6 lesson13
-electronic dictionary	でんしじしょ	unit6 lesson13
-Christmas	クリスマス	unit6 lesson13
-Valentine's Day	バレンタインデー	unit6 lesson13
-chocolate	チョコレート	unit6 lesson13
-present	プレゼント	unit6 lesson13
-Mother's Day	ははの ひ	unit6 lesson13
-Father's Day	ちちの ひ	unit6 lesson13
-wedding anniversary	けっこんきねんび	unit6 lesson13
-marriage	けっこん	unit6 lesson13
-anniversary	きねんび	unit6 lesson13
-well	よく	unit6 lesson13
-suit, look good on	にあいます (にあう)	unit6 lesson13 verb
-it's time to be going, I'd better get going	そろそろ しつれいします	unit6 lesson13
-in just a short while	そろそろ	unit6 lesson13
-peach	もも	unit6 lesson13
+necktie	ネクタイ	lesson13 unit6
+coat	コート	lesson13 unit6
+gift, souvenir	おみやげ	lesson13 unit6
+electronic dictionary	でんしじしょ	lesson13 unit6
+Christmas	クリスマス	lesson13 unit6
+Valentine's Day	バレンタインデー	lesson13 unit6
+chocolate	チョコレート	lesson13 unit6
+present	プレゼント	lesson13 unit6
+Mother's Day	ははの ひ	lesson13 unit6
+Father's Day	ちちの ひ	lesson13 unit6
+wedding anniversary	けっこんきねんび	lesson13 unit6
+marriage	けっこん	lesson13 unit6
+anniversary	きねんび	lesson13 unit6
+well	よく	lesson13 unit6
+suit, look good on	にあいます (にあう)	lesson13 unit6 verb
+it's time to be going, I'd better get going	そろそろ しつれいします	lesson13 unit6
+in just a short while	そろそろ	lesson13 unit6
+peach	もも	lesson13 unit6
 (another person's) house	おたく	lesson14 unit6
-fun, enjoyable	たのしい	unit6 lesson14
-we	わたしたち	unit6 lesson14
-again	また	unit6 lesson14
-please come	きてください	unit6 lesson14
-boring, tedious	つまらない	unit6 lesson14
-bad	わるい	unit6 lesson14
-concert	コンサート	unit6 lesson14
+fun, enjoyable	たのしい	lesson14 unit6
+we	わたしたち	lesson14 unit6
+again	また	lesson14 unit6
+please come	きてください	lesson14 unit6
+boring, tedious	つまらない	lesson14 unit6
+bad	わるい	lesson14 unit6
+concert	コンサート	lesson14 unit6
 clearance sale	バーゲンセール	lesson14 unit6
-show	ショー	unit6 lesson14
-how was...?	どうでしたか	unit6 lesson14
-how	どう	unit6 lesson14
-to be (honorific word for います)	いらっしゃいます	unit6 lesson14
+show	ショー	lesson14 unit6
+how was...?	どうでしたか	lesson14 unit6
+how	どう	lesson14 unit6
+to be (honorific word for います)	いらっしゃいます	lesson14 unit6
 please wait a minute (politer way of saying ちょっと まってください)	ちょっと おまちください	lesson14 unit6
-cold (aff., present form)	さむいです	unit6 lesson14
-cold (neg., present form)	さむくないです	unit6 lesson14
-cold (aff., past form)	さむかったです	unit6 lesson14
-cold (neg., past form)	さむくなかったです	unit6 lesson14
-fireworks display	はなびたいかい	unit7 lesson15
-fireworks	はなび	unit7 lesson15
-large gathering	たいかい	unit7 lesson15
-snow festival	ゆきまつり	unit7 lesson15
+cold (aff., present form)	さむいです	lesson14 unit6
+cold (neg., present form)	さむくないです	lesson14 unit6
+cold (aff., past form)	さむかったです	lesson14 unit6
+cold (neg., past form)	さむくなかったです	lesson14 unit6
+fireworks display	はなびたいかい	lesson15 unit7
+fireworks	はなび	lesson15 unit7
+large gathering	たいかい	lesson15 unit7
+snow festival	ゆきまつり	lesson15 unit7
 snow	ゆき	lesson15 unit7
-soccer	サッカー	unit7 lesson15
-game, match	しあい	unit7 lesson15
-platform	ホーム	unit7 lesson15
-west exit	にしぐち	unit7 lesson15
-east exit	ひがしぐち	unit7 lesson15
-north exit	きたぐち	unit7 lesson15
+soccer	サッカー	lesson15 unit7
+game, match	しあい	lesson15 unit7
+platform	ホーム	lesson15 unit7
+west exit	にしぐち	lesson15 unit7
+east exit	ひがしぐち	lesson15 unit7
+north exit	きたぐち	lesson15 unit7
 south exit	みなみぐち	lesson15 unit7
-sumo	sumō	unit7 lesson15
-'I'm sorry, but it wouldn't be convenient (for me)'	ぎんねんですが、つごうが わるいです	lesson15 unit7
-talk	はなしを します	unit7 lesson15
-that sounds good	いいですね	unit7 lesson15
-(concert) hall	ホール	unit7 lesson15
-to have a party	パーティーを します	unit7 lesson15
-by all means, certainly	ぜひ	unit7 lesson15
-true	ほんとう	unit7 lesson16
-portable shrine (carried during festivals)	おみこし	unit7 lesson16
-to carry (on one's shoulders)	かつぎます (かつぐ)	unit7 lesson16
-but	でも	unit7 lesson16
-happi coat	はっぴ	unit7 lesson16
-mine	わたしの	unit7 lesson16
-to lend	かします (かす)	unit7 lesson16 verb
-is it all right	ii n desu ka	unit7 lesson16
-to turn on	つけます (つける)	unit7 lesson16 verb
-to turn off	けします (けす)	unit7 lesson16 verb
-to carry, hold	もちます (もらう)	unit7 lesson16 verb
-to open	あけます (あける)	unit7 lesson16 verb
-to close, shut	しめます (しめる)	unit7 lesson16 verb
-photograph	しゃしん	unit7 lesson16
-take (a photograph)	しゃしんを とります (とる)	unit7 lesson16 verb
-time	じかん	unit7 lesson16
-class	じゅぎょう	unit7 lesson16
-map	ちず	unit7 lesson16
-luggage, baggage	にもつ	unit7 lesson16
-door	ドア	unit7 lesson16
-window	まど	unit7 lesson16
-air conditioner	エアコン	unit7 lesson16
-money	おかね	unit7 lesson16
-this evening	こんばん	unit7 lesson16
-next time	また こんど	unit7 lesson16
-golf club	クラブ	unit7 lesson16
-tool, equipment	どうぐ	unit7 lesson16
-to make a photocopy	コピーを します	unit7 lesson16
-tennis racket	ラケット	unit7 lesson16
-painful, ouch!	いたい	unit7 lesson16
-are you all right?	だいじょうぶですか	unit7 lesson16
-I'm sorry (for what I did a while ago)	すみませんでした	unit7 lesson16
-I feel out of sorts, I don't feel well	きぶんが わるいです	unit7 lesson16
-bench	ベンチ	unit7 lesson16
-to rest, relax, take time off	やすみます (やすみ？)	unit7 lesson16
-do you have a moment?	ちょっと よろしいですか	unit8 lesson17
-good, all right (polite form of いい; used in interrogative sentences)	よろしい	unit8 lesson17
-sales, marketing	はんばい	unit8 lesson17
-after	の あとで	unit8 lesson17
-factory, manufacturing plant	こうじょう	unit8 lesson17
-take care	きを つけて	unit8 lesson17
-(electric) light	でんき	unit8 lesson17
-report	レポート	unit8 lesson17
-art museum	びじゅつかん	unit8 lesson17
-buy (ーて form)	かって	unit8 lesson17 grammar
-meet (ーて form)	あって	unit8 lesson17 grammar
-return, go home (ーて form)	かえって	unit8 lesson17 grammar
-go (ーて form)	いって	unit8 lesson17 grammar
-write (ーて form)	かいて	unit8 lesson17 grammar
-listen (to), ask (ーて form)	きいて	unit8 lesson17 grammar
-drink (ーて form)	のんで	unit8 lesson17 grammar
-read (ーて form)	よんで	unit8 lesson17 grammar
-turn off (ーて form)	けして	unit8 lesson17 grammar
-eat (ーて form)	たべて	unit8 lesson17 grammar
-open (ーて form)	あけて	unit8 lesson17 grammar
-close (ーて form)	しめて	unit8 lesson17 grammar
-turn on (ーて form)	つけて	unit8 lesson17 grammar
-see (ーて form)	みて	unit8 lesson17 grammar
-come (ーて form)	きて	unit8 lesson17 grammar
-do (ーて form)	して	unit8 lesson17 grammar
-to hold a meeting	かいぎを します	unit8 lesson17
+sumo	すもう	lesson15 unit7
+'I'm sorry, but it wouldn't be convenient (for me)'	ざんねんですが、つごうが わるいです	lesson15 unit7
+talk	はなしを します	lesson15 unit7
+that sounds good	いいですね	lesson15 unit7
+(concert) hall	ホール	lesson15 unit7
+to have a party	パーティーを します	lesson15 unit7
+by all means, certainly	ぜひ	lesson15 unit7
+true	ほんとう	lesson16 unit7
+portable shrine (carried during festivals)	おみこし	lesson16 unit7
+to carry (on one's shoulders)	かつぎます (かつぐ)	lesson16 unit7
+but	でも	lesson16 unit7
+happi coat	はっぴ	lesson16 unit7
+mine	わたしの	lesson16 unit7
+to lend	かします (かす)	lesson16 unit7 verb
+is it all right	いいんですか	lesson16 unit7
+to turn on	つけます (つける)	lesson16 unit7 verb
+to turn off	けします (けす)	lesson16 unit7 verb
+to carry, hold	もちます (もらう)	lesson16 unit7 verb
+to open	あけます (あける)	lesson16 unit7 verb
+to close, shut	しめます (しめる)	lesson16 unit7 verb
+photograph	しゃしん	lesson16 unit7
+take (a photograph)	しゃしんを とります (とる)	lesson16 unit7 verb
+time	じかん	lesson16 unit7
+class	じゅぎょう	lesson16 unit7
+map	ちず	lesson16 unit7
+luggage, baggage	にもつ	lesson16 unit7
+door	ドア	lesson16 unit7
+window	まど	lesson16 unit7
+air conditioner	エアコン	lesson16 unit7
+money	おかね	lesson16 unit7
+this evening	こんばん	lesson16 unit7
+next time	また こんど	lesson16 unit7
+golf club	クラブ	lesson16 unit7
+tool, equipment	どうぐ	lesson16 unit7
+to make a photocopy	コピーを します	lesson16 unit7
+tennis racket	ラケット	lesson16 unit7
+painful, ouch!	いたい	lesson16 unit7
+are you all right?	だいじょうぶですか	lesson16 unit7
+I'm sorry (for what I did a while ago)	すみませんでした	lesson16 unit7
+I feel out of sorts, I don't feel well	きぶんが わるいです	lesson16 unit7
+bench	ベンチ	lesson16 unit7
+to rest, relax, take time off	やすみます (やすむ)	lesson16 unit7
+do you have a moment?	ちょっと よろしいですか	lesson17 unit8
+good, all right (polite form of いい; used in interrogative sentences)	よろしい	lesson17 unit8
+sales, marketing	はんばい	lesson17 unit8
+after (time)	の あとで	lesson17 unit8
+factory, manufacturing plant	こうじょう	lesson17 unit8
+(electric) light	でんき	lesson17 unit8
+report	レポート	lesson17 unit8
+art museum	びじゅつかん	lesson17 unit8
+buy (ーて form)	かって	grammar lesson17 unit8
+meet (ーて form)	あって	grammar lesson17 unit8
+return, go home (ーて form)	かえって	grammar lesson17 unit8
+go (ーて form)	いって	grammar lesson17 unit8
+write (ーて form)	かいて	grammar lesson17 unit8
+listen (to), ask (ーて form)	きいて	grammar lesson17 unit8
+drink (ーて form)	のんで	grammar lesson17 unit8
+read (ーて form)	よんで	grammar lesson17 unit8
+turn off (ーて form)	けして	grammar lesson17 unit8
+eat (ーて form)	たべて	grammar lesson17 unit8
+open (ーて form)	あけて	grammar lesson17 unit8
+close (ーて form)	しめて	grammar lesson17 unit8
+turn on (ーて form)	つけて	grammar lesson17 unit8
+see (ーて form)	みて	grammar lesson17 unit8
+come (ーて form)	きて	grammar lesson17 unit8
+do (ーて form)	して	grammar lesson17 unit8
+to hold a meeting	かいぎを します	lesson17 unit8
 why	どうして	lesson17 unit8
-particle indicating a purpose	に	unit8 lesson17
-conjunction that joins two clauses (particle)	が	unit8 lesson18
-product, merchandise	しょうひん	unit8 lesson18
-catalog	カタログ	unit8 lesson18
-soon, right away	すぐ	unit8 lesson18
-please send	おくってください	unit8 lesson18
-use	つかいます (つかう)	unit8 lesson18 verb
-also, in addition	それから	unit8 lesson18
-sample	サンプル	unit8 lesson18
-main / central / head office	ほんしゃ	unit8 lesson18
+particle indicating a purpose	に	lesson17 unit8
+conjunction that joins two clauses (particle)	が	lesson18 unit8
+product, merchandise	しょうひん	lesson18 unit8
+catalog	カタログ	lesson18 unit8
+soon, right away	すぐ	lesson18 unit8
+please send	おくってください	lesson18 unit8
+use	つかいます (つかう)	lesson18 unit8 verb
+also, in addition	それから	lesson18 unit8
+sample	サンプル	lesson18 unit8
+main / central / head office	ほんしゃ	lesson18 unit8
 indicates a means of telecommunication or post (particle)	で	lesson18 unit8
-turn	まがります (まがる)	unit8 lesson18 verb
-stop, park	とめます (とめる)	unit8 lesson18 verb
-say	いいます (いう)	unit8 lesson18 verb
-teach, show, tell	おしえます (おしえる)	unit8 lesson18 verb
-bring something	もってきます (もってくる)	unit8 lesson18 verb
-deliver	とどけます (とどける)	unit8 lesson18 verb
-wait	まちます (まつ)	unit8 lesson18 verb
-intersection	こうさてん	unit8 lesson18
-traffic signal	しんごう	unit8 lesson18
-corner	かど	unit8 lesson18
-just before	てまえ	unit8 lesson18
-ahead	さき	unit8 lesson18
-straight ahead	まっすぐ	unit8 lesson18
-particle indicating a point of passage	を	unit8 lesson18
-fax	ファックス	unit8 lesson18
-airmail	こうくうびん	unit8 lesson18
-surface mail	ふなびん	unit8 lesson18
-courier service	たくはいびん	unit8 lesson18
-say (-て form)	いって	unit8 lesson18 grammar
-wait (-て form)	まって	unit8 lesson18 grammar
-turn (-て form)	まがって	unit8 lesson18 grammar
-take (-て form)	とって	unit8 lesson18 grammar
+turn	まがります (まがる)	lesson18 unit8 verb
+stop, park	とめます (とめる)	lesson18 unit8 verb
+say	いいます (いう)	lesson18 unit8 verb
+teach, show, tell	おしえます (おしえる)	lesson18 unit8 verb
+bring something	もってきます (もってくる)	lesson18 unit8 verb
+deliver	とどけます (とどける)	lesson18 unit8 verb
+wait	まちます (まつ)	lesson18 unit8 verb
+intersection	こうさてん	lesson18 unit8
+traffic signal	しんごう	lesson18 unit8
+corner	かど	lesson18 unit8
+just before	てまえ	lesson18 unit8
+ahead	さき	lesson18 unit8
+straight ahead	まっすぐ	lesson18 unit8
+particle indicating a point of passage	を	lesson18 unit8
+fax	ファックス	lesson18 unit8
+airmail	こうくうびん	lesson18 unit8
+surface mail	ふなびん	lesson18 unit8
+courier service	たくはいびん	lesson18 unit8
+say (-て form)	いって	grammar lesson18 unit8
+wait (-て form)	まって	grammar lesson18 unit8
+turn (-て form)	まがって	grammar lesson18 unit8
+take (-て form)	とって	grammar lesson18 unit8
 lend (-て form)	かして	grammar lesson18 unit8
-show (-て form)	みせて	unit8 lesson18 grammar
-stop (-て form)	とめて	unit8 lesson18 grammar
-tell (-て form)	おしえて	unit8 lesson18 grammar
-deliver (-て form)	とどけて	unit8 lesson18 grammar
-bring (-て form)	もってきて	unit8 lesson18 grammar
-next	つぎ	unit8 lesson18
-pizza	ピザ	unit8 lesson18
-menu	メニュー	unit8 lesson18
-data, information, material, documents, literature	しりょう	unit8 lesson18
-mail, post	ゆうびん	unit8 lesson18
-second	ふたつめ	unit8 lesson18
-suffix that attaches to a number and makes it an ordinal number	め	unit8 lesson18
-(another person's) address	ごしゅうしょ	lesson18 unit8
-by (the time)	までに	unit8 lesson18
-to, as far as (particle)	まで	unit8 lesson18
-white	しろい	unit8 lesson18
-thanks (colloquial shortening of どうも ありがとう)	どうも	unit8 lesson18
-apartment (in a high-rise building), condominium	マンション	unit8 lesson18
-room service	ルームサービス	unit8 lesson18
-blanket	もうふ	unit8 lesson18
-how may I help you?	なんでしょうか	unit8 lesson18
-please take care of	あずかってください	unit8 lesson18
-to take care of, to be in charge of	あずかります (あずかる)	unit8 lesson18 verb
-give back	つれてきます (つれてくる)	misc verb
+show (-て form)	みせて	grammar lesson18 unit8
+stop (-て form)	とめて	grammar lesson18 unit8
+teach, show, tell (-て form)	おしえて	grammar lesson18 unit8
+deliver (-て form)	とどけて	grammar lesson18 unit8
+bring (-て form)	もってきて	grammar lesson18 unit8
+next	つぎ	lesson18 unit8
+pizza	ピザ	lesson18 unit8
+menu	メニュー	lesson18 unit8
+data, information, material, documents, literature	しりょう	lesson18 unit8
+mail, post	ゆうびん	lesson18 unit8
+second	ふたつめ	lesson18 unit8
+suffix that attaches to a number and makes it an ordinal number	め	lesson18 unit8
+(another person's) address	ごじゅうしょ	lesson18 unit8
+by (the time)	までに	lesson18 unit8
+to, as far as (particle)	まで	lesson18 unit8
+white	しろい	lesson18 unit8
+thanks (colloquial shortening of どうも ありがとう)	どうも	lesson18 unit8
+apartment (in a high-rise building), condominium	マンション	lesson18 unit8
+room service	ルームサービス	lesson18 unit8
+blanket	もうふ	lesson18 unit8
+how may I help you?	なんでしょうか	lesson18 unit8
+please take care of	あずかってください	lesson18 unit8
+to take care of, to be in charge of	あずかります (あずかる)	lesson18 unit8 verb
+bring a person	つれてきます (つれてくる)	misc verb
 take a bath	おふろ　に　はいる	misc
 enter	はいります (はいる)	misc verb
 leave	でかけます (でかける)	misc verb
+zebra crossing	おおたんほとう	lesson18 unit8
+T crossroads	つきあたり	lesson18 lesson8
+one (counter for general objects)	ひとつ	counter lesson5 unit2
+two (counter for general objects)	ふたつ	counter lesson5 unit2
+three (counter for general objects)	みっつ	counter lesson5 unit2
+four (counter for general objects)	よっつ	counter lesson5 unit2
+five (counter for general objects)	いつつ	counter lesson5 unit2
+six (counter for general objects)	むっつ	counter lesson5 unit2
+seven (counter for general objects)	ななつ	counter lesson5 unit2
+eight (counter for general objects)	やっつ	counter lesson5 unit2
+nine (counter for general objects)	ここのつ	counter lesson5 unit2
+ten (counter for general objects)	とう	counter lesson5 unit2
+eleven, twelve ... (counter for general objects)	じゅういち, じゅうに, ...	counter lesson5 unit2
+January	いちがつ	lesson7 unit3
+February	にがつ	lesson7 unit3
+March	さんがつ	lesson7 unit3
+April	しがつ	lesson7 unit3
+May	ごがつ	lesson7 unit3
+June	ろくがつ	lesson7 unit3
+July	しちがつ	lesson7 unit3
+August	はちがつ	lesson7 unit3
+September	くがつ	lesson7 unit3
+October	じゅうがつ	lesson7 unit3
+December	じゅうにがつ	lesson7 unit3
+three persons, ...	さんにん, ...	lesson9 unit4
+November	じゅういちがつ	lesson7 unit3
+one person	ひとり	lesson9 unit4
+two persons	ふたり	lesson9 unit4
+get on a train, bus, ...	のります (のりる)	misc unit8 verb
+get of a train, bus, ...	おります (おりる)	misc unit8 verb
+and (connects actions)	そして	misc unit8
+switch between trains, busses, ...	のりかえます (のりかえる)	misc unit8 verb
+how long (time)	どのぐらい	misc unit8
+take (time, ...)	かかります (かかる)	misc unit8 verb
+need	いります (いる)	misc unit8 verb
