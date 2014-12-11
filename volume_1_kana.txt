@@ -336,7 +336,7 @@ back, behind	うしろ	lesson8 unit4
 inside, middle	なか	lesson8 unit4
 next to	となり	lesson8 unit4
 vicinity, nearby	ちかく	lesson8 unit4
-to be, to exist, to stay (only of animate objects)	います (いる)	lesson8 unit4 verb
+to be, to exist, to stay (only of animate objects)	います (いる) (-う verb)	lesson8 unit4 verb
 and (particle)	と	lesson8 particle unit4
 nothing	なにも ... -ません (neg verb)	lesson8 unit4
 no one	だれも ... -ません(neg verb)	lesson8 unit4
@@ -587,7 +587,7 @@ to lend	かします (かす)	lesson16 unit7 verb
 is it all right?	いいんですか	lesson16 unit7
 to turn on	つけます (つける)	lesson16 unit7 verb
 to turn off	けします (けす)	lesson16 unit7 verb
-to carry, hold	もちます (もらう)	lesson16 unit7 verb
+to carry, hold	もちます (もつ)	lesson16 unit7 verb
 to open	あけます (あける)	lesson16 unit7 verb
 to close, shut	しめます (しめる)	lesson16 unit7 verb
 photograph	しゃしん	lesson16 unit7
@@ -655,7 +655,7 @@ say	いいます (いう)	lesson18 unit8 verb
 teach, show, tell	おしえます (おしえる)	lesson18 unit8 verb
 bring something	もってきます (もってくる)	lesson18 unit8 verb
 deliver	とどけます (とどける)	lesson18 unit8 verb
-wait	まちます (まつ)	lesson18 unit8 verb
+wait	まちます (まつ) (+を)	lesson18 unit8 verb
 intersection	こうさてん	lesson18 unit8
 traffic signal	しんごう	lesson18 unit8
 corner	かど	lesson18 unit8
@@ -790,6 +790,101 @@ Station employee	えきいん	lesson19 unit9
 (train) line	せん	lesson19 unit9
 platform number one	1ばんせん	lesson19 unit9
 platform number	ばんせん	lesson19 unit9
-between ... and ...	... と ... の ... あいだに ...	misc unit8
+between ... and ...	... と ... の あいだに ...	misc unit8
 sea	うみ	misc unit8
 to show	みせます (みせる)	lesson18 unit8 verb
+departing at	はつ	lesson19 misc unit9
+arriving at (time)	ちゃく<br />	lesson19 misc unit9
+one-way ticket	かたみち	lesson19 misc unit9
+return ticket	おうふく	lesson19 misc unit9
+train going in the direction of (suffix)	ほうめん / ゆき	lesson19 misc unit9
+to be late for ...	... におくれる	lesson19 misc unit9
+to make a reservation	よやくします	misc unit9
+woodblock print	うきよえ	unit9 lesson20
+may I take (a photograph)?	とっても いいですか	unit9 lesson20
+pamphlet, brochure	パンフレット	unit9 lesson20
+smoke (a cigarette)	たばこを すいます	unit9 lesson20
+cigarette	たばこ	unit9 lesson20
+(picture) postcard	えはがき	unit9 lesson20
+recorded guide	イヤホーンガイド	unit9 lesson20
+earphones, headphones	イヤホーン	unit9 lesson20
+guide	ガイド	unit9 lesson20
+to use (ーて form)	つかって	unit9 lesson20
+to smoke	すいます (すう)	unit9 lesson20 verb
+to smoke (ーて form)	すって	unit9 lesson20
+to enter (ーて form)	はいって	unit9 lesson20
+to rest	やすみます (やすむ)	unit9 lesson20 verb
+to rest (ーて form)	やすんで	unit9 lesson20
+customer, client (polite form)	おきゃくさん	unit9 lesson20
+(business) card	カード	unit9 lesson20
+romanized Japanese	ローマじ	unit9 lesson20
+to put	おきます (おく)	unit9 lesson20 verb
+to put (ーて form)	おいて	unit9 lesson20
+Mt. Fuji	ふじさん	unit9 lesson21
+(said when you are about to take someone's photo)	とりますよ	unit9 lesson21
+flash	フラッシュ	unit9 lesson21
+please don't use	つかわないでください	unit9 lesson21
+to smoke (ーない form)	すわない	unit9 lesson21
+to use (ーない form)	つかわない	unit9 lesson21
+to stand up	たちます (たつ)	unit9 lesson21 verb
+to stand up (ーない form)	たたない	unit9 lesson21
+to drink (ーない form)	のまない	unit9 lesson21
+to take (a photograph) (ーない form)	とらない	unit9 lesson21
+to open (ーない form)	あけない	unit9 lesson21
+to close (ーない form)	しめない	unit9 lesson21
+to stop, park (ーない form)	とめない	unit9 lesson21
+to meet (ーない form)	あわない	unit9 lesson21
+to put in, add	いれます (いれる)	unit9 lesson21 verb
+to put in, add (ーない form)	いれない	unit9 lesson21
+no smoking, non-smoking	きんえん	unit9 lesson21
+no parking	ちゅうしゃきんし	unit9 lesson21
+Japanese (green) horseradish	わさび	unit9 lesson21
+exit	でぐち	unit9 lesson21
+baby	あかちゃん	unit9 lesson21
+ketchup	ケチャップ	unit9 lesson21
+mayonnaise	マヨネーズ	unit9 lesson21
+iced coffee	アイスコーヒー	unit9 lesson21
+sugar	さとう	unit9 lesson21
+'don't worry about it', 'don't let it bother you'	きに しないでください	unit9 lesson21
+to worry (about), be bothered (by)	きに します	unit9 lesson21 verb
+(medical) doctor	いしゃ	unit9 lesson21
+is/are explaining	せつめいをしています	unit10 lesson22
+to explain	せつめいをします	verb unit10 lesson22
+sales department (office)	えいぎょうぶ	unit10 lesson22
+but (particle joining two clauses)	が	unit10 lesson22
+to clean	そうじをします	unit10 lesson22 verb
+to make	つくります (つくる)	unit10 lesson22 verb
+elevator	エレベーター	unit10 lesson22
+escalator	エスカレータ	unit10 lesson22
+stairs	かいだん	unit10 lesson22
+already	もう	unit10 lesson22
+see you later; talk to you later	またあとで	unit10 lesson22
+not yet	まだ	unit10 lesson22
+a little more	もうすこし	unit10 lesson22
+to sell	うっています	unit10 lesson23 verb
+to sell (-masu)	うります (うる)	unit10 lesson23 verb
+to live	すんでいます	unit10 lesson23 verb
+to live (-masu)	すみます (すむ)	unit10 lesson23 verb
+I'm sorry to have to tell you this (politer way of saying すみません)	もうしわけございません	unit10 lesson23
+very much, extremely (politer way of saying	たいへん)	unit10 lesson23
+to know	しっています	unit10 lesson23 verb
+to be employed	つとめています	unit10 lesson23 verb
+to be employed (-masu)	つとめます (つとめる)	unit10 lesson23 verb
+child (related)	こども	unit10 lesson23
+child (unrelated)	おこさん	unit10 lesson23
+son (related)	むすこ	unit10 lesson23
+son (unrelated)	むすこさん	unit10 lesson23
+daughter (related)	むすめ	unit10 lesson23
+daughter (unrelated)	おじょうさん むすめさん	unit10 lesson23
+older brother (related)	あに	unit10 lesson23
+older brother (unrelated)	おにいさん	unit10 lesson23
+older sister (related)	あね	unit10 lesson23
+older sister (unrelated)	おねえさん	unit10 lesson23
+younger brother (related)	おとうと	unit10 lesson23
+younger brother (unrelated)	おとうとさん	unit10 lesson23
+younger sister (related)	いもうと	unit10 lesson23
+younger sister (unrelated)	いもうとさん	unit10 lesson23
+and (connecting sentences)	そして	unit10 lesson23
+electronics store	でんきや	unit10 lesson23
+maple syrup	メープルシロップ	unit10 lesson23
+actually, I don't know	さあわかりません	unit10 lesson23
