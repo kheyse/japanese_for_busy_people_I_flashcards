@@ -336,7 +336,7 @@ back, behind	うしろ	lesson8 unit4
 inside, middle	なか	lesson8 unit4
 next to	となり	lesson8 unit4
 vicinity, nearby	ちかく	lesson8 unit4
-be, exist (only of animate objects)	います (いる)	lesson8 unit4 verb
+to be, to exist, to stay (only of animate objects)	います (いる)	lesson8 unit4 verb
 and (particle)	と	lesson8 particle unit4
 nothing	なにも ... -ません (neg verb)	lesson8 unit4
 no one	だれも ... -ません(neg verb)	lesson8 unit4
@@ -699,7 +699,7 @@ bring a person	つれてきます (つれてくる)	misc verb
 take a bath	おふろ　に　はいる	misc
 enter	はいります (はいる) (-u verb)	misc verb
 leave	でかけます (でかける)	misc verb
-zebra crossing	おおたんほとう	lesson18 unit8
+zebra crossing	おおだんほどう	lesson18 unit8
 T crossroads	つきあたり	lesson18 lesson8
 one (counter for general objects)	ひとつ	counter lesson5 unit2
 two (counter for general objects)	ふたつ	counter lesson5 unit2
@@ -731,23 +731,22 @@ get on a train, bus, ...	のります (のりる)	misc unit8 verb
 get of a train, bus, ...	おります (おりる)	misc unit8 verb
 and (connects actions)	そして	misc unit8
 switch between trains, busses, ...	のりかえます (のりかえる)	misc unit8 verb
-how long (time)	どのぐらい	misc unit8
 take (time, ...)	かかります (かかる)	misc unit8 verb
 need	いります (いる) (が +)	misc unit8 verb
 shall we leave?	でましょうか	lesson19 unit9
 to go out, leave	でます&nbsp;(でる)&nbsp;(+を)	lesson19 unit9 verb
-how long	どのぐらい	lesson19 unit9
+how long&nbsp;(time)	どのぐらい	lesson19 unit9
 to get on (a vehicle), take	のります&nbsp;(のる)&nbsp;(+に)	lesson19 unit9 verb
 get off (a vehicle)	おります&nbsp;(おりる)&nbsp;(+を)	lesson19 unit9 verb
 to arrive	つきます (つく)&nbsp;(+に)	lesson19 unit9 verb
 minute(s), suffix	かん	lesson19 unit9
 hour(s), suffix	じかん	lesson19 unit9
-5 minutes (period of time)	ごふんかん	lesson19 unit9
-10 minutes (period of time)	じゅっぷんかん	lesson19 unit9
-15 mintes (period of time)	じゅうごふん	lesson19 unit9
-20 minutes (period of time)	にじゅっぷん	lesson19 unit9
-25 minutes (period of time)	にじゅうごふん	lesson19 unit9
-30 minutes (period of time)	さんじゅっぷん	lesson19 unit9
+5 minutes (period of time)	ごふん (かん)	lesson19 unit9
+10 minutes (period of time)	じゅっぷん&nbsp;(かん)	lesson19 unit9
+15 minutes (period of time)	じゅうごふん (かん)	lesson19 unit9
+20 minutes (period of time)	にじゅっぷん&nbsp;(かん)	lesson19 unit9
+25 minutes (period of time)	にじゅうごふん (かん)	lesson19 unit9
+30 minutes (period of time)	さんじゅっぷん&nbsp;(かん)	lesson19 unit9
 1 hour (period of time)	いちじかん	lesson19 unit9
 2 hours (period of time)	にじかん	lesson19 unit9
 3 hours (period of time)	さんじかん	lesson19 unit9
@@ -772,12 +771,12 @@ hour(s), suffix	じかん	lesson19 unit9
 4 months	よんかげつ	lesson19 unit9
 5 months	ごかげつ	lesson19 unit9
 6 months	ろっかげつ	lesson19 unit9
-1 year	いちねん	lesson19 unit9
-2 years	にねん	lesson19 unit9
-3 years	さんねん	lesson19 unit9
-4 years	よねん	lesson19 unit9
-5 years	ごねん	lesson19 unit9
-6 years	ろくねん	lesson19 unit9
+1 year	いちねん&nbsp;(かん)	lesson19 unit9
+2 years	にねん&nbsp;(かん)	lesson19 unit9
+3 years	さんねん (かん)	lesson19 unit9
+4 years	よねん&nbsp;(かん)	lesson19 unit9
+5 years	ごねん&nbsp;(かん)	lesson19 unit9
+6 years	ろくねん&nbsp;(かん)	lesson19 unit9
 to walk	あるきます (あるく)	lesson19 unit9 verb
 how, in what way	どうやって	lesson19 unit9
 New York	ニューヨーク	lesson19 unit9
@@ -791,3 +790,6 @@ Station employee	えきいん	lesson19 unit9
 (train) line	せん	lesson19 unit9
 platform number one	1ばんせん	lesson19 unit9
 platform number	ばんせん	lesson19 unit9
+between ... and ...	... と ... の ... あいだに ...	misc unit8
+sea	うみ	misc unit8
+to show	みせます (みせる)	lesson18 unit8 verb
