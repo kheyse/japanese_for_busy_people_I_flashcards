@@ -161,7 +161,7 @@ apple	りんご	lesson5 unit2
 large, big	おおきい	lesson5 unit2
 small, little	ちいさい	lesson5 unit2
 Switzerland	スイス	lesson5 unit2
-(counter for long objects)	-hon	counter lesson5 unit2
+(counter for long objects)	-ほん	counter lesson5 unit2
 car	くるま	lesson5 unit2
 Italy	イタリア	lesson5 unit2
 where, which place	どこ	lesson5 unit2
@@ -246,7 +246,7 @@ to do	します (irregular verb する)	misc unit3 verb
 (verb suffix: present, neg, formal)	-ません	grammar unit3
 (verb suffix: past, pos, formal)	-ました	grammar unit3
 (verb suffix: past, neg, formal)	-ませんでした	grammar unit3
-to see/to watch/to look?	みます (みる)	lesson10 unit5 verb
+to see/to watch/to look	みます (みる)	lesson10 unit5 verb
 to sleep/go to bed	ねます (ねる)	misc unit3 verb
 to study	べんきょうを します	misc unit3 verb
 (subject particle)	が	lesson6 particle unit3
@@ -303,7 +303,7 @@ monday	げつようび	lesson7 unit3
 tuesday	かようび	lesson7 unit3
 wednesday	すいようび	lesson7 unit3
 thursday	もくようび	lesson7 unit3
-friday	きにょうび	lesson7 unit3
+friday	きんようび	lesson7 unit3
 saturday	どようび	lesson7 unit3
 Okinawa	おきなわ (islands on the southwestern tip of Japan)	lesson7 unit3
 family	かぞく	lesson8 unit4
@@ -361,7 +361,7 @@ sometimes	ときどき	misc unit3
 quick/early	はやい	misc unit4
 weekend	しゅうまつ	misc unit3
 left	ひだり	misc unit4
-right	みぎ	misc unit4
+right (direction)	みぎ	misc unit4
 over there	あそこ	lesson9 unit4
 convenience store	コンビニ	lesson9 unit4
 taxi stand	タクシーのりば	lesson9 unit4
@@ -665,7 +665,7 @@ straight ahead	まっすぐ	lesson18 unit8
 particle indicating a point of passage	を	lesson18 unit8
 fax	ファックス	lesson18 unit8
 airmail	こうくうびん	lesson18 unit8
-surface mail	ふなびん	lesson18 unit8
+surface mail (boat)	ふなびん	lesson18 unit8
 courier service	たくはいびん	lesson18 unit8
 say (-て form)	いって	grammar lesson18 unit8
 wait (-て form)	まって	grammar lesson18 unit8
@@ -740,7 +740,7 @@ to get on (a vehicle), take	のります&nbsp;(のる)&nbsp;(+に)	lesson19 unit
 get off (a vehicle)	おります&nbsp;(おりる)&nbsp;(+を)	lesson19 unit9 verb
 to arrive	つきます (つく)&nbsp;(+に)	lesson19 unit9 verb
 minute(s), suffix	かん	lesson19 unit9
-hour(s), suffix	じかん	lesson19 unit9
+hour (suffix, duration)	じかん	lesson19 unit9
 5 minutes (period of time)	ごふん (かん)	lesson19 unit9
 10 minutes (period of time)	じゅっぷん&nbsp;(かん)	lesson19 unit9
 15 minutes (period of time)	じゅうごふん (かん)	lesson19 unit9
@@ -786,7 +786,7 @@ musical	ミュージカル	lesson19 unit9
 fair	フェア	lesson19 unit9
 Honolulu	ホノルル	lesson19 unit9
 travel agency	りょこうがいしゃ	lesson19 unit9
-Station employee	えきいん	lesson19 unit9
+station employee	えきいん	lesson19 unit9
 (train) line	せん	lesson19 unit9
 platform number one	1ばんせん	lesson19 unit9
 platform number	ばんせん	lesson19 unit9
@@ -798,19 +798,19 @@ arriving at (time)	ちゃく<br />	lesson19 misc unit9
 one-way ticket	かたみち	lesson19 misc unit9
 return ticket	おうふく	lesson19 misc unit9
 train going in the direction of (suffix)	ほうめん / ゆき	lesson19 misc unit9
-to be late for ...	... におくれる	lesson19 misc unit9
+to be late for ...	おくれる (+に)	lesson19 misc unit9
 to make a reservation	よやくします	misc unit9
 woodblock print	うきよえ	unit9 lesson20
 may I take (a photograph)?	とっても いいですか	unit9 lesson20
 pamphlet, brochure	パンフレット	unit9 lesson20
 smoke (a cigarette)	たばこを すいます	unit9 lesson20
-cigarette	たばこ	unit9 lesson20
+cigarette	たばこ	lesson20 unit9
 (picture) postcard	えはがき	unit9 lesson20
 recorded guide	イヤホーンガイド	unit9 lesson20
 earphones, headphones	イヤホーン	unit9 lesson20
 guide	ガイド	unit9 lesson20
 to use (ーて form)	つかって	unit9 lesson20
-to smoke	すいます (すう)	unit9 lesson20 verb
+to smoke	すいます (すう)	lesson20 unit9 verb
 to smoke (ーて form)	すって	unit9 lesson20
 to enter (ーて form)	はいって	unit9 lesson20
 to rest	やすみます (やすむ)	unit9 lesson20 verb
@@ -818,11 +818,11 @@ to rest (ーて form)	やすんで	unit9 lesson20
 customer, client (polite form)	おきゃくさん	unit9 lesson20
 (business) card	カード	unit9 lesson20
 romanized Japanese	ローマじ	unit9 lesson20
-to put	おきます (おく)	unit9 lesson20 verb
+to put	おきます (おく)	lesson20 unit9 verb
 to put (ーて form)	おいて	unit9 lesson20
 Mt. Fuji	ふじさん	unit9 lesson21
-(said when you are about to take someone's photo)	とりますよ	unit9 lesson21
-flash	フラッシュ	unit9 lesson21
+(said when you are about to take someone's photo)	とりますよ	lesson21 unit9
+flash	フラッシュ	lesson21 unit9
 please don't use	つかわないでください	unit9 lesson21
 to smoke (ーない form)	すわない	unit9 lesson21
 to use (ーない form)	つかわない	unit9 lesson21
@@ -845,37 +845,36 @@ ketchup	ケチャップ	unit9 lesson21
 mayonnaise	マヨネーズ	unit9 lesson21
 iced coffee	アイスコーヒー	unit9 lesson21
 sugar	さとう	unit9 lesson21
-'don't worry about it', 'don't let it bother you'	きに しないでください	unit9 lesson21
+'don't worry about it', 'don't let it bother you'	きに しないでください	lesson21 unit9
 to worry (about), be bothered (by)	きに します	unit9 lesson21 verb
 (medical) doctor	いしゃ	unit9 lesson21
 is/are explaining	せつめいをしています	unit10 lesson22
 to explain	せつめいをします	verb unit10 lesson22
-sales department (office)	えいぎょうぶ	unit10 lesson22
+sales department (office)	えいぎょうぶ	lesson22 unit10
 but (particle joining two clauses)	が	unit10 lesson22
 to clean	そうじをします	unit10 lesson22 verb
 to make	つくります (つくる)	unit10 lesson22 verb
 elevator	エレベーター	unit10 lesson22
-escalator	エスカレータ	unit10 lesson22
+escalator	エスカレータ	lesson22 unit10
 stairs	かいだん	unit10 lesson22
 already	もう	unit10 lesson22
 see you later; talk to you later	またあとで	unit10 lesson22
 not yet	まだ	unit10 lesson22
-a little more	もうすこし	unit10 lesson22
-to sell	うっています	unit10 lesson23 verb
+a little more	もうすこし	lesson22 unit10
+to sell	うっています	lesson23 unit10 verb
 to sell (-masu)	うります (うる)	unit10 lesson23 verb
-to live	すんでいます	unit10 lesson23 verb
 to live (-masu)	すみます (すむ)	unit10 lesson23 verb
-I'm sorry to have to tell you this (politer way of saying すみません)	もうしわけございません	unit10 lesson23
-very much, extremely (politer way of saying	たいへん)	unit10 lesson23
-to know	しっています	unit10 lesson23 verb
-to be employed	つとめています	unit10 lesson23 verb
-to be employed (-masu)	つとめます (つとめる)	unit10 lesson23 verb
+I'm sorry to have to tell you this (politer way of saying すみません)	もうしわけございません	lesson23 unit10
+very much, extremely (politer way of saying とても)	たいへん	lesson23 unit10
+to know	しっています	lesson23 unit10 verb
+to be employed	つとめています (+に)	lesson23 unit10 verb
+to be employed (-masu)	つとめます (つとめる) (+に)	lesson23 unit10 verb
 child (related)	こども	unit10 lesson23
 child (unrelated)	おこさん	unit10 lesson23
 son (related)	むすこ	unit10 lesson23
 son (unrelated)	むすこさん	unit10 lesson23
 daughter (related)	むすめ	unit10 lesson23
-daughter (unrelated)	おじょうさん むすめさん	unit10 lesson23
+daughter (unrelated)	おじょうさん / むすめさん	lesson23 unit10
 older brother (related)	あに	unit10 lesson23
 older brother (unrelated)	おにいさん	unit10 lesson23
 older sister (related)	あね	unit10 lesson23
@@ -888,3 +887,86 @@ and (connecting sentences)	そして	unit10 lesson23
 electronics store	でんきや	unit10 lesson23
 maple syrup	メープルシロップ	unit10 lesson23
 actually, I don't know	さあわかりません	unit10 lesson23
+to know (-masu)	しります (しる)	lesson23 misc unit10 verb
+self introduction	じこしょうかい	misc
+pause	きゅうけい	misc
+to be lean	やせています	lesson22 misc unit10 verb
+to be fat	ふとっています	lesson22 misc unit10 verb
+to sit down	すわります (すわる)	lesson22 misc unit10 verb
+to be seated	すわっています	lesson22 misc unit10 verb
+to wear (from the neck down, above the waist)	きています	lesson22 misc unit10 verb
+to wear (glasses)	かけています	lesson22 misc unit10 verb
+to wear (from the waist down)	はいています	lesson22 misc unit10 verb
+to wear (on the head)	かぶっています	lesson22 misc unit10 verb
+parents	（ご）りょうしん	lesson22 misc unit10
+grandmother	そぼ　（おばあさん）	lesson22 misc unit10
+grandfather	そふ　（おじいさん）	lesson22 misc unit10
+siblings	（ご）きょうだい	lesson22 misc unit10
+sisters	（ご）しまい	lesson22 misc unit10
+grandchildren	まご　（おまごさん）	lesson22 misc unit10
+uncle	おじ（さん）	lesson22 misc unit10
+aunt	おば（さん）	lesson22 misc unit10
+nephew	おい（ごさん）	lesson22 misc unit10
+niece	めい（ごさん）	lesson22 misc unit10
+cousin	いとこ（さん）	lesson22 misc unit10
+short (person)	<div>せがひくい</div>	lesson22 misc unit10
+tall (person)	せがたかい	lesson22 misc unit10
+at that moment	のとき	lesson22 misc unit10
+short, low	ひく	lesson22 misc unit10
+eye	め	lesson22 misc unit10
+to get fat	ふとる	lesson22 misc unit10
+to put on (clothes, above the waist)	きます (きる)	lesson22 misc unit10 verb
+happy new year (31 december)	よいおとしを	lesson22 misc unit10
+happy new year (1 january)	あけまして　おめでとう	lesson22 misc unit10
+to contain (e.g. a dish)	はいています (+に,+が)	lesson22 misc unit10
+to comprise (e.g. a set meal)	ついています (+に,+が)	lesson22 misc unit10
+cheese	チーズ	lesson22 misc unit10
+tomato	トマト	lesson22 misc unit10
+lettuce	レタス	lesson22 misc unit10
+pickles	ピクルス	lesson22 misc unit10
+fried noodles	やきそば	lesson22 misc unit10
+pork meat	ぶたにく	lesson22 misc unit10
+shrimp	えび	lesson22 misc unit10
+tofu	とうふ	lesson22 misc unit10
+ginger	しょうが	lesson22 misc unit10
+chili pepper	とうがらし	lesson22 misc unit10
+set menu	セット	lesson22 misc unit10
+boiled rice, meal	ごはん	lesson22 misc unit10
+miso soup	みそしる	lesson22 misc unit10
+breakfast menu	モーニングセット	lesson22 misc unit10
+toast	トースト	lesson22 misc unit10
+egg	たまご	lesson22 misc unit10
+evening, night	よる	misc unit10
+hobby	しゅみ	misc unit10
+to borrow	かります (かりる)	misc unit10
+to swim	およぎます (およぐ)	misc unit10 verb
+to yell	よびます (よぶ)	misc unit10 verb
+to live	すんでいます	unit10 lesson23 verb
+very much, extremely (politer way of saying	たいへん)	unit10 lesson23
+be skilled, be good at (-na adj.)	じょうずです	unit11 lesson24
+like (-na adj.)	すきです	unit11 lesson24
+understand	わかります	unit11 lesson24 verb
+skiing	スキー	unit11 lesson24
+baseball	やきゅう	unit11 lesson24
+swimming	スイエイ	unit11 lesson24
+fruit	くだもの	unit11 lesson24
+kanji	かんじ	unit11 lesson24
+whiskey	ウイスキー	unit11 lesson24
+dancing	ダンス	unit11 lesson24
+Chinese language	ちゅうごくご	unit11 lesson24
+Korean language	かんこくご	unit11 lesson24
+German language	ドイツご	unit11 lesson24
+Italian food	イタリアりょうり	unit11 lesson24
+jazz	ジャズ	unit11 lesson24
+piano	ピアノ	unit11 lesson24
+ocean, sea	うみ	unit11 lesson24
+Carpenter (surname)	カーペンター	unit11 lesson24
+Ochiai (surname)	おちあい	unit11 lesson24
+Tokyo Stadium (fict.)	とうきょうスタジアム	unit11 lesson24
+French food	フランスりょうり	unit11 lesson24
+that person over there	あちら	unit11 lesson24
+learn, take lessons in	ならいます	unit11 lesson24
+introduce	しょうかいします	unit11 lesson24
+kendo	けんどう	unit11 lesson24
+practice	れんしゅうをします	unit11 lesson24
+fine, wonderful, lovely (-na adj.)	すてきな	unit11 lesson24
