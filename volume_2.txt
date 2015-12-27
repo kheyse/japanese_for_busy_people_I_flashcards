@@ -51,7 +51,7 @@ rice ball	おにぎり	lesson1 unit1
 overseas	かいがい	lesson1 unit1
 geared toward, for (suffix)	~むけ	lesson1 unit1
 development	かいはつ	lesson1 unit1
-to make; to prepare	作る／作ります	?
+to make; to prepare	つくる (作る／作ります)	?
 come	来	kanji
 week	週	kanji
 go	行	kanji
@@ -89,14 +89,14 @@ person (polite form)	かた	lesson2 unit1
 size	サイズ	lesson2 unit1
 I will take that one	それにします	lesson2 unit1
 For use as a present	プレゼント用	lesson2 unit1
-for use as	〜用	lesson2 unit1
+for use as	-you (〜用)	lesson2 unit1
 wrap	つつみます	lesson2 unit1
 how about this one?	いかがですか	lesson2 unit1
-fast	早い	lesson2 unit1
+fast	はやい (早い)	lesson2 unit1
 public bath/hot spring	温泉	?
 confections; sweets; candy	おかし	?
 post card	えはがき	?
-new	新しい	?
+new	atarashii (新しい)	?
 cheap	安い	?
 skilled	上手	?
 golf	ゴルフ	
@@ -127,10 +127,10 @@ credit card	クレジットカード	lesson2 unit1
 I'm very sorry	もうしわけございまえん	?
 that way; over there	あちら	?
 siblings, brothers and sisters	兄弟	lesson2 unit1
-younger brother	弟	lesson2 unit1
-younger sister	妹	lesson2 unit1
-older sister	姉	lesson2 unit1
-older brother	兄	lesson2 unit1
+younger brother	おとうと (弟)	lesson2 unit1
+younger sister	いもうと (妹)	lesson2 unit1
+older sister	あね (姉)	lesson2 unit1
+older brother	あに (兄)	lesson2 unit1
 colleague	どうりょう	lesson2 unit1
 in that case, then, well	では	
 favor, request	おねがい	
@@ -157,9 +157,9 @@ rental shop	レンタルシップ	lesson2 unit1
 basketball	バスケットボール	lesson2 unit1
 borrow, rent	借ります	lesson2 unit1
 before	前に	lesson3 unit1
-paper bag	紙袋	lesson3 unit1
-paper	紙	lesson3 unit1
-bag, sack	袋	lesson3 unit1
+paper bag	かみぶくろ (紙袋)	lesson3 unit1
+paper	かみ (紙)	lesson3 unit1
+bag, sack	ぶくろ (袋)	lesson3 unit1
 forget	わすれます	lesson3 unit1
 some, a number of, several	いくつか	lesson3 unit1
 be in/inside	入っています	lesson3 unit1
@@ -242,3 +242,59 @@ end, finish	おわります	lesson3 unit1
 see (someone) off	おくりに いきます	lesson3 unit1
 system notebook	システムてちょう	lesson3 unit1
 brown	ちゃいろ	lesson3 unit1
+Argentina	アルゼンチン	lesson1 unit1
+balcony	バルコニー	lesson3 unit1
+cabinet (katakana)	キャビネット	lesson3 unit1
+cash register	レジ	lesson3 unit1
+clothing (trad. Japanese)	きもの	lesson2 unit1
+desk	つくえ	lesson3 unit1
+glass	グラス	lesson3 unit1
+muffler; scarf	マフラー	lesson3 unit1
+nothing/anything, anything	なにも	lesson1 unit1
+nowhere/everywhere, anywhere	どこも	lesson1 unit1
+nylon	ナイロン	lesson3 unit1
+plastic	プラスチック	lesson3 unit1
+shirt	シャツ	lesson3 unit1
+simple; easy (na-adj)	かんたん	lesson2 unit1
+suitcase	スーツケース	lesson3 unit1
+teacher, doctor, professor	せんせい	lesson2 unit1
+to play; also used to visit someone	あそぶ	lesson3 unit1
+to put on (glasses, etc.); to hang (e.g. picture); to sit	かける	lesson3 unit1
+to put on (one's head)	かぶる	lesson3 unit1
+to search (for something lost)	さがす	lesson3 unit1
+autumn	あき	misc unit1
+autumn colours	こうよう	misc unit1
+Bon holidays (festival to honor the spirits of one's ancestors)	ぼんやすみ	misc unit1
+bottom	そこ	misc unit1
+cicada	せみ	misc unit1
+clean	きれい	misc unit1
+closed	とじた	misc unit1
+cold (object)	つめたい	misc unit1
+cool (of weather)	すずしい	misc unit1
+dark (color)	こい	misc unit1
+dirty	きたない	misc unit1
+dry	かわいた	misc unit1
+empty	から	misc unit1
+full	いっぱい	misc unit1
+Girls' Festival (March 3rd)	ひなまつり	misc unit1
+Golden Week	ゴールデンウイーク	misc unit1
+happy	うれしい	misc unit1
+humid	むしあつい	misc unit1
+Japanese Year	しょうがつ	misc unit1
+just right (weather)	ちょうどいい	misc unit1
+light (color)	うすい	misc unit1
+medium	ちゅうぐらい	misc unit1
+narrow	せまい	misc unit1
+off	きえている	misc unit1
+open	ひらいた	misc unit1
+rain season	つゆ	misc unit1
+sad	かなしい	misc unit1
+season	きせつ	misc unit1
+slow, late	おそい	misc unit1
+spring	はる	misc unit1
+stove	ストーブ	misc unit1
+top (part)	じょうぶ	misc unit1
+typhoon	たいふう	misc unit1
+wet	ぬれた	misc unit1
+width	はば	misc unit1
+winter	ふゆ	misc unit1
