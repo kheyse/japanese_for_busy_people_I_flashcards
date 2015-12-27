@@ -298,3 +298,35 @@ typhoon	たいふう	misc unit1
 wet	ぬれた	misc unit1
 width	はば	misc unit1
 winter	ふゆ	misc unit1
+an only child	ひとりっこ	family unit1 lesson2
+aunt (honorific)	おばさん	family unit1 lesson2
+aunt (your own)	おば	family unit1 lesson2
+bachelorhood; single	どくしん	family unit1 lesson2
+brothers	おとこのきょうだい	family unit1 lesson2
+coexistence; living together	どうきょ	family unit1 lesson2
+daughter	むすめ	family unit1 lesson2
+divorce	りこん	family unit1 lesson2
+father (honorific)	おとうさん	family unit1 lesson2
+grandfather (honorific)	おじいさん	family unit1 lesson2
+grandfather (your own)	そふ	family unit1 lesson2
+grandmother (honorific)	おばあさん	family unit1 lesson2
+grandmother (your own)	そぼ	family unit1 lesson2
+grandparents	そふぼ	family unit1 lesson2
+he; boyfriend	かれ	family unit1 lesson2
+husband (honorific)	ごしゅじん	family unit1 lesson2
+husband (your own)	おっと	family unit1 lesson2
+mother (honorific)	おかあさん	family unit1 lesson2
+nephew (honorific)	おいごさん	family unit1 lesson2
+nephew (your own)	おい	family unit1 lesson2
+niece (honorific)	めいごさん	family unit1 lesson2
+niece (your own)	めい	family unit1 lesson2
+older	としうえ	family unit1 lesson2
+she; girlfriend	かのじょ	family unit1 lesson2
+son	むすこ	family unit1 lesson2
+to live; to make a living	くらす	family unit1 lesson2
+to part from (other people), to be divided	わかれる	family unit1 lesson2
+uncle (honorific)	おじさん	family unit1 lesson2
+uncle (your own)	おじ	family unit1 lesson2
+wife (honorific)	おくさん	family unit1 lesson2
+wife (your own)	つま	family unit1 lesson2
+younger	としした	family unit1 lesson2
