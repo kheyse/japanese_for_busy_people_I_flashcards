@@ -941,8 +941,6 @@ hobby	しゅみ	misc unit10
 to borrow	かります (かりる)	misc unit10
 to swim	およぎます (およぐ)	misc unit10 verb
 to yell	よびます (よぶ)	misc unit10 verb
-to live	すんでいます	unit10 lesson23 verb
-very much, extremely (politer way of saying	たいへん)	unit10 lesson23
 be skilled, be good at (-na adj.)	じょうずです	unit11 lesson24
 like (-na adj.)	すきです	unit11 lesson24
 understand	わかります	unit11 lesson24 verb
@@ -960,13 +958,36 @@ Italian food	イタリアりょうり	unit11 lesson24
 jazz	ジャズ	unit11 lesson24
 piano	ピアノ	unit11 lesson24
 ocean, sea	うみ	unit11 lesson24
-Carpenter (surname)	カーペンター	unit11 lesson24
-Ochiai (surname)	おちあい	unit11 lesson24
-Tokyo Stadium (fict.)	とうきょうスタジアム	unit11 lesson24
 French food	フランスりょうり	unit11 lesson24
 that person over there	あちら	unit11 lesson24
 learn, take lessons in	ならいます	unit11 lesson24
-introduce	しょうかいします	unit11 lesson24
+introduce	しょうかいします	lesson24 unit11
 kendo	けんどう	unit11 lesson24
 practice	れんしゅうをします	unit11 lesson24
 fine, wonderful, lovely (-na adj.)	すてきな	unit11 lesson24
+cooking school	クッキングスクール	unit11 lesson25
+Japanese food	にほんりょうり	unit11 lesson25
+want to learn	ならいたいです	unit11 lesson25
+judo	じゅうどう	unit11 lesson25
+flower arranging	いけばな	unit11 lesson25
+tea ceremony	おちゃ	unit11 lesson25
+head	あたま	unit11 lesson25
+tooth	は	unit11 lesson25
+throat	のど	unit11 lesson25
+belly, stomach	おなか	unit11 lesson25
+shoulder	かた	unit11 lesson25
+back	せなか	unit11 lesson25
+lower back	こし	unit11 lesson25
+hand, arm	て	unit11 lesson25
+leg, foot	あし	unit11 lesson25
+want to go	いきたいです	unit11 lesson25
+be painful, hurt	いたいです	unit11 lesson25
+furniture	かぐ	unit11 lesson25
+the future	しょうらい	unit11 lesson25
+warm	あたたかい	unit11 lesson25
+town	まち	unit11 lesson25
+what's the matter with you?	どうしましたか	unit11 lesson25
+fever	ねつ	unit11 lesson25
+degree (heat)	ーど	unit11 lesson25
+farewell party	そうべつかい	unit11 lesson25
+be late	おそいです	unit11 lesson25
