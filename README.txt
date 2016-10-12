@@ -7,6 +7,6 @@ Later chapters are only available in hiragana and katakana.
 All chapters of volume 1 have been covered.
 Not all chapters of volume 2 have been covered yet.
 
-Can be easily imported in Anki. Each card has three tab-separated fields: front side (English), back side (Japanese), tags (unit and chapter). Cards with the 'misc' tag may not be part of the book.
+'.apkg' files can be easily imported in Anki. Alternatively, all cards are available in csv-format. Each card has three tab-separated fields: front side (English), back side (Japanese), tags (unit and chapter). Cards with the 'misc' tag may not be part of the book.
 
 Cards based on various sources from the web. Card descriptions may differ from vocabulary lists in book.
